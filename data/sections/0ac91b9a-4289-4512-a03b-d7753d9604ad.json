@@ -1,0 +1,45 @@
+{
+ "sectionName": "מתכת - כלי רכב",
+ "sectionId": "0ac91b9a-4289-4512-a03b-d7753d9604ad",
+ "guides": [
+  {
+   "projectId": "c7324742-e1ff-4872-a338-dc1d45c0c458",
+   "projectName": "גלגל",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2c156b35-4c06-4979-8196-441b46bd863a.jpg",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "e96786a2-05ad-4e51-a98c-dd9c2aab2cfc",
+   "projectName": "מכונית",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f2ee995d-8373-4b9d-a50a-08c337044b12.jpg",
+   "mapItemType": 0,
+   "time": "00:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "64c678d6-b9b2-47f8-abf8-766bebb97d0f",
+   "projectName": "מנוע למכונית",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f9e385d0-556d-4faf-b111-789ac1fed00a.jpg",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "3a36489e-6f4b-4923-b2a9-b88b9d6e2640",
+   "projectName": "יוצאים לשטח",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4cfd8c91-6ecd-4bda-a73b-523d22fb1527.jpg",
+   "mapItemType": 0,
+   "time": "00:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1dddae2f-7b4f-42ac-8502-eec54aed40a7.jpg",
+ "isMultipart": false,
+ "error": 0
+}

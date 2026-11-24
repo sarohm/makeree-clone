@@ -1,0 +1,1036 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "a3b19607-89e4-4b9b-bc97-1548a08d066b",
+ "projectType": 2,
+ "currentLanguage": "eng",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "c52092c7-e46b-48b1-97df-d8717ffebfa1",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/62e54135-a2af-4094-8fdf-659fa89eebca.jpg",
+ "nextProjectName": "Musical Pencil",
+ "prevProjectId": "",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1be43211-430a-4fd1-985a-edc42564192b.jpg",
+ "name": "Dancing Doodler",
+ "subTitle": "",
+ "description": "",
+ "timeToMake": "00:30:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": "",
+ "finishTitle": null,
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": null,
+ "materialsText": null,
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dd81299f-810f-4ab8-b31a-ade65b617ca7.jpg",
+ "finishImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dd81299f-810f-4ab8-b31a-ade65b617ca7.jpg",
+ "materialsImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e4563c80-d07f-4021-83ab-f76fa6453e33.jpg",
+ "materials": [
+  {
+   "name": "Plastic platform (with holes)",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Markers",
+   "imageUrl": null,
+   "quantity": 3,
+   "type": 1
+  },
+  {
+   "name": "Rubber bands",
+   "imageUrl": null,
+   "quantity": 9,
+   "type": 1
+  },
+  {
+   "name": "Battery pack",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Batteries",
+   "imageUrl": null,
+   "quantity": 3,
+   "type": 1
+  },
+  {
+   "name": "DC motor",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Zip tie",
+   "imageUrl": null,
+   "quantity": 3,
+   "type": 1
+  },
+  {
+   "name": "Electric screw terminal",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Screw in different lengths",
+   "imageUrl": null,
+   "quantity": 3,
+   "type": 1
+  },
+  {
+   "name": "Screw driver",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  }
+ ],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e897b005-7fbe-49b4-929a-c81ff23f788c.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e897b005-7fbe-49b4-929a-c81ff23f788c_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/0bc7f092-4fed-443b-b5b9-9c2a38209266.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/439c2f45-1419-46e9-87e4-a2bbc025eecd.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/439c2f45-1419-46e9-87e4-a2bbc025eecd_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4627f051-cf1e-42d6-8b92-983616d47128.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4627f051-cf1e-42d6-8b92-983616d47128_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/94d03b6c-0dce-4e0a-803c-2eeaf380703a.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/94d03b6c-0dce-4e0a-803c-2eeaf380703a_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/e90886c4-cddd-4ab8-bd1b-21d7f79c4ce6.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/fa831a18-dffe-4ac1-aa0f-d9ef17b71c86.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/fa831a18-dffe-4ac1-aa0f-d9ef17b71c86_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ed142d77-edb7-4247-83c1-cc73a457f502.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ed142d77-edb7-4247-83c1-cc73a457f502_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2c3a2081-6f91-4a98-ad3e-a246b490787d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2c3a2081-6f91-4a98-ad3e-a246b490787d_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e8db86fd-cf8a-4819-b6bf-84602b401fef.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e8db86fd-cf8a-4819-b6bf-84602b401fef_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 11,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/219f18a2-9456-4173-b614-75a5268680e3.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/219f18a2-9456-4173-b614-75a5268680e3_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0f9b4e23-dd9c-4c72-8a28-369e77b7c14d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0f9b4e23-dd9c-4c72-8a28-369e77b7c14d_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cbf89e92-6402-42be-b708-e5286098e86d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cbf89e92-6402-42be-b708-e5286098e86d_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/06ec6a66-dd07-4bb3-8a32-e492287cd885.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/06ec6a66-dd07-4bb3-8a32-e492287cd885_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 15,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5bbe75a9-f452-432a-8cd3-dd918d9bbd06.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5bbe75a9-f452-432a-8cd3-dd918d9bbd06_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 16,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e0a3dd7c-7e70-419d-b495-1443e0083403.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e0a3dd7c-7e70-419d-b495-1443e0083403_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4883656f-f99b-4ac1-ac11-59b8deb683be.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4883656f-f99b-4ac1-ac11-59b8deb683be_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1d71aa27-fd2f-43d0-98e1-616b787f5def.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1d71aa27-fd2f-43d0-98e1-616b787f5def_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f6870362-7f37-4bdd-aa6d-24bd9dd55793.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f6870362-7f37-4bdd-aa6d-24bd9dd55793_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/10669678-a5f9-454b-8a7b-11fd9c3ff5ef.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/10669678-a5f9-454b-8a7b-11fd9c3ff5ef_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/45baf6ad-a5e2-4d6a-93aa-e737935b3176.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/45baf6ad-a5e2-4d6a-93aa-e737935b3176_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c11baec7-df1c-480c-a89f-2a502e0b9296.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c11baec7-df1c-480c-a89f-2a502e0b9296_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/052cee23-a677-471b-baa2-00a852ed8db8.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/052cee23-a677-471b-baa2-00a852ed8db8_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 24,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/56df67e7-f66e-4326-8ec8-538c9a4cc52f.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/56df67e7-f66e-4326-8ec8-538c9a4cc52f_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 25,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/eb559ea5-d879-4539-b089-a706bcbc48ad.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/eb559ea5-d879-4539-b089-a706bcbc48ad_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 26,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d1240d12-22b3-4096-b114-a09b9d0a856e.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d1240d12-22b3-4096-b114-a09b9d0a856e_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 27,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6b8aa50c-6288-4633-84aa-c6b3b3383632.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6b8aa50c-6288-4633-84aa-c6b3b3383632_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 28,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/fa6c590c-5f43-4451-92c1-4a4287ff4ed8.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dancing doodler",
+   "stepGroupId": 1
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 28,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

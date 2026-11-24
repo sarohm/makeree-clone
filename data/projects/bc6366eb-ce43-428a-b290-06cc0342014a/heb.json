@@ -1,0 +1,1291 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "bc6366eb-ce43-428a-b290-06cc0342014a",
+ "projectType": 2,
+ "currentLanguage": "heb",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "2cab6c85-fd86-44ae-9299-2a4e39fe2a4e",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e5fcc34a-bc28-4ebc-83d7-6a9526a00659.jpg",
+ "nextProjectName": "POV Light Stick",
+ "prevProjectId": "056e65bd-ec2b-4cce-97a8-045f935ac289",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/makeree/courses/course2.jpg",
+ "name": "Theremin",
+ "subTitle": null,
+ "description": "The Theremin invention is a unique musical instrument. Detecting the player's movement and changing the pitch of the sound generated, based on the position of the hand. This revised addition of the classic Theremin, is a great combination of both sound and science, resulting in an electronic musical device.",
+ "timeToMake": "00:35:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": null,
+ "finishTitle": null,
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": null,
+ "materialsText": null,
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/11/covers/info.jpg",
+ "finishImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/11/covers/info.jpg",
+ "materialsImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/11/covers/ingredients.jpg",
+ "materials": [
+  {
+   "name": "Arduino Uno Board",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "830 Point Breadboard",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Prototype Shield With GPIO Connector",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Mini Breadboard",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "GPIO Board",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "GPIO Flat Cable",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Speaker",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "AA Battery Case",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "220 Ohm Resistor",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "100K Resistor",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Infra Red LED",
+   "imageUrl": null,
+   "quantity": 4,
+   "type": 1
+  },
+  {
+   "name": "Light receiver",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Blue LED",
+   "imageUrl": null,
+   "quantity": 2,
+   "type": 1
+  },
+  {
+   "name": "Jumper Wire",
+   "imageUrl": null,
+   "quantity": 15,
+   "type": 1
+  },
+  {
+   "name": "Double-ended Alligator Jumper Wire",
+   "imageUrl": null,
+   "quantity": 2,
+   "type": 1
+  },
+  {
+   "name": "CR2032 Battery ",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Personal Computer With An Internet Connection",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  },
+  {
+   "name": "Duct Tape",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  }
+ ],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step1v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step1v1_thumb.jpg",
+   "text": "מקם  את כל רכיבי הלד על משטח העבודה",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step2v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step2v1_thumb.jpg",
+   "text": "זהה את 2 הלדים הצבעוניים על ידיי מיקום הרגל הארוכה על הצד החיובי של סוללת ה2032CR",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step3v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step3v1_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 820,
+     "y": 570,
+     "type": 0,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "משדרי אינפרא-אדום (לדים IR) הם דיודות מסוג מיוחד, המשמשים לרוב כחיישנים. צורתם דומה לנורות לד רגילות, שונים מהן ברכיב הפנימי הצלול. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    },
+    {
+     "x": 700,
+     "y": 570,
+     "type": 0,
+     "iconType": 4,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_4.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "קרינה אינפרא אדומה היא סוג של קרינה אלקטרומגנטית, בלתי נראית לעין האנושית. צילום תמונה באמצעות הטלפון או מצלמת ה- Ipad יציג את הקרניים הנפלטות מהלד האינפרא אדום"
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step4v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step4v1_thumb.jpg",
+   "text": "זהה את מקלט האור",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 750,
+     "y": 490,
+     "type": 0,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "מקלט הוא דיודת אור, הממיר אור לזרם"
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/07/SIMON_steps3.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/07/SIMON_steps3_thumb.jpg",
+   "text": "מקם את לוח ה- T על לוח המטריצה 830. חבר את כבל הGPIO השטוח ואת הארדואינו.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step6v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step6v1_thumb.jpg",
+   "text": "הכנס לד צבעוני לתוך לוח המטריצה בעמודה A.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step7v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step7v1_thumb.jpg",
+   "text": "וודא שהרגל הקצרה יותר מוכנסת לשורה 25 ושהארוכה יותר (חיובי) לתוך תא בשורה 24.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step8v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step8v1_thumb.jpg",
+   "text": "הכנס 2 נורות לד לתוך אותה עמודה, זו לצד זו, ודא שאתה משאיר חריץ 1 ריק בין נורות לד שכנות.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step9v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step9v1_thumb.jpg",
+   "text": "הכינו חתיכת נייר דבק קטנה ועטפו אותה סביב המקלט IR.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 607,
+     "y": 630,
+     "type": 0,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "זה משפיע על הרגישות של מקלט הIR, מפחית אותו לשדה קטן מאוד ומאפשר רק לאור ישיר להשפיע על הרכיב"
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step10v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step10v1_thumb.jpg",
+   "text": "הכנס את המקלט לאותה עמודה בלוח, ודא שהחיבורים מתואמים",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 11,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step11v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step11v1_thumb.jpg",
+   "text": "שמור חריץ 1 ריק בין נורות לד.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step12v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step12v1_thumb.jpg",
+   "text": "הכנס את 2 נוריות הלד הנוספות לאותה עמודה. הכנס את הלד הצבעוני האחרון, השאר חריץ ריק אחד בין נוריות הלד",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "נורות לד",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step13v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step13v1_thumb.jpg",
+   "text": "השתמש בחוטי הjumper לחבר את כל החיבורים השליליים של הלדים, המוצבים רחוק יותר מלוח ה-T, על קו הGND הכחול של הלוח.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step14v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step14v1_thumb.jpg",
+   "text": "כופף את כל נוריות הלד ב90 מעלות, לעברך",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 15,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step15v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step15v1_thumb.jpg",
+   "text": "חבר חוט jumper מהרגל החיובית של לד 5 לרגל החיובית של לד 6. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 16,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step16v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step16v1_thumb.jpg",
+   "text": "חבר חוט jumper נוסף מהרגל החיובית של לד 3 לרגל החיובית של לד 5",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step17v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step17v1_thumb.jpg",
+   "text": "חבר חוט jumper מהרגל החיובית של לד 2 לרגל החיובית של לד 3.  ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step18v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step18v1_thumb.jpg",
+   "text": "חבר את הרגל החיובית של לד 2 ליציאת 9D של לוח הT. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step19v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step19v1_thumb.jpg",
+   "text": "חבר חוט jumper מהרגל החיובית של לד 1 לרגל החיובית של הלד האחרון.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step20v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step20v1_thumb.jpg",
+   "text": "מקם את הנגד ה220 אוהם ונגד ה100K על משטח העבודה שלך",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 850,
+     "y": 350,
+     "type": 1,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step20tip.jpg",
+        "text": "רכיבים אלה מספקים התנגדות חשמלית שונה. ההתנגדות נמדדת על ידי אומגה או אוהם, ערכי התנגדות גבוהים יותר מיוצגים על ידי K-(Kilo-ohms) ו-M (Mega-ohms)",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step21v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step21v1_thumb.jpg",
+   "text": "הכנס רגל אחת של נגד 220 אוהם לD10 ואת השניה לאותה עמודה כמו לרגל של הלד הראשון, קרוב יותר ללוח ה- T",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step22v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step22v1_thumb.jpg",
+   "text": "חבר חוט jumper מ- A0 אל הרגל החיובית של מקלט ה- IR, קרוב יותר ללוח ה- T",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step23v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step23v1_thumb.jpg",
+   "text": "הכנס את הרגל של נגד ה 100K לתוך A0 ואת הרגל השנייה אל העמודה האדומה ('+'), בקצה לוח המטריצה. הכנס חוט jumper ליד קו ה- GND הכחול, בצד הנגדי של לוח המטריצה.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 24,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step24v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step24v1_thumb.jpg",
+   "text": "חבר חוט jumper נוסף ל- D8 של לוח ה-T.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 25,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step25v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step25v1_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 26,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step26v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step26v1_thumb.jpg",
+   "text": "חבר כבל תנין אל כבל הjumper.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 27,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step27v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step27v1_thumb.jpg",
+   "text": "חבר את כבל התנין השני, מכבל הjumper אל הרמקול.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 28,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step28v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step28v1_thumb.jpg",
+   "text": "חבר את סוגר התנין הנותר אל הרמקול",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 29,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step29v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step29v1_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "רמקןל",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 30,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/General/downloads.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/General/downloads_thumb.jpg",
+   "text": "בקר בכתובת www.makeree.com/resources. בחר את התמונה של הפרויקט הרלוונטי והורד את הקוד עבור Theremin.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 31,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step31v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step31v1_thumb.jpg",
+   "text": "השתמש בכבל USB כדי לחבר את לוח Arduino למחשב. העלה את הקוד עם התוכנה המיועדת. ודא כי 2 נוריות LED צבעוניות נדלקות. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 32,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step33v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step33v1_thumb.jpg",
+   "text": "החלף את כבל ה- USB במארז הסוללה. בדוק את ההמצאה שלך וחקור את המתאם בין מרחק היד לבין הצליל שנוצר.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 870,
+     "y": 395,
+     "type": 1,
+     "iconType": 3,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_3.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/11/11_step32tip.jpg",
+        "text": "גובה הצליל של המכשיר משתנה בהתאם לקלט האור.ידו של המשתמש, הנעה לפני הפוטו-טרנזיסטור, חוסמת את שדה ה- IR ,משנה את זרימת החשמל ומשפיעה על הצליל.",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "משחק",
+   "stepGroupId": 5
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 32,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

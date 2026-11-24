@@ -1,0 +1,72 @@
+{
+ "sectionName": "Noise Sound & Music Lab",
+ "sectionId": "095c8f11-c5ba-4710-904b-2d01d9b8da7b",
+ "guides": [
+  {
+   "projectId": "8802ec9f-95e0-4ade-aa86-d769c35182b3",
+   "projectName": "A musical wine glass",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0c332f95-2a33-4bf9-b98d-6c6649bf8531.jpg",
+   "mapItemType": 0,
+   "time": "00:03:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "daeb97fb-11d5-4ca8-8d6b-0fdbd566ac8b",
+   "projectName": "Musical containers",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4bd5c6cc-4f0f-4478-867c-d3cfc6d09f75.jpg",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "cd7e9f99-1342-43f8-92bb-3bbed185c06a",
+   "projectName": "A musical straw",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4e576ec8-78fe-47af-a468-7358b2010a1a.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "f6a9d263-97bb-4ec3-b182-e3dd05aafa00",
+   "projectName": "A musical toilet roll",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c4ca3865-7e23-4257-bce0-cce84f780837.jpg",
+   "mapItemType": 0,
+   "time": "00:03:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "9dcf8ed5-bdb0-4e03-8e1e-ef1f9b51a1b6",
+   "projectName": "A musical rubber band",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4dbd7fd8-10ff-4082-a0b2-b4991006bc57.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "573db0d9-8bdd-4876-96ed-d0c5074624f6",
+   "projectName": "Musical beat Jars",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/871eaf6d-81f2-4e83-93dc-a00a3501a95b.jpg",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "ddc4c40a-5c85-4a00-b7a7-8fb0e96accf2",
+   "projectName": "Musical toys",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/04832a04-f1e4-428a-a28f-40b323ab9811.jpg",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/33baebdb-9b22-4dc3-9914-e25fbf437e14.jpg",
+ "isMultipart": false,
+ "error": 0
+}

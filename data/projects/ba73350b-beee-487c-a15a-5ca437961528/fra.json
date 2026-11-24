@@ -1,0 +1,2748 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "ba73350b-beee-487c-a15a-5ca437961528",
+ "projectType": 2,
+ "currentLanguage": "fra",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "3d15801c-b598-4d31-bea2-f0f2f2554682",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bb322636-a26d-4177-b71f-73a9b3a65698.jpg",
+ "nextProjectName": "Be Creative",
+ "prevProjectId": "0f3cae15-f0ce-4d8b-b616-eba613b396e1",
+ "partNumber": 7,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/makeree/courses/course1_1.jpg",
+ "name": "Hydraulic Arm",
+ "subTitle": null,
+ "description": "A Hydraulic arm is a moving arm that uses liquid fluid power to control movement. Syringes positioned at the Hydraulic arm's joints, conveying water through tubes, push and pull the arm's components and allow playfully exploring the liquid's role as a source of mechanical force.",
+ "timeToMake": "02:30:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": null,
+ "finishTitle": null,
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": null,
+ "materialsText": null,
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/05/covers/info.jpg",
+ "finishImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/05/covers/info.jpg",
+ "materialsImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/05/covers/ingredients.jpg",
+ "materials": [
+  {
+   "name": "Syringe",
+   "imageUrl": null,
+   "quantity": 6,
+   "type": 1
+  },
+  {
+   "name": "Flat Wooden Craft Stick",
+   "imageUrl": null,
+   "quantity": 15,
+   "type": 1
+  },
+  {
+   "name": "Silicone Tubing",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Paper Fastener",
+   "imageUrl": null,
+   "quantity": 12,
+   "type": 1
+  },
+  {
+   "name": "Duct Tape",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Hole Puncher",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  },
+  {
+   "name": "Scissors",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  },
+  {
+   "name": "Soft Pencil",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Hard Base Surface",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  }
+ ],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps1_thumb.jpg",
+   "text": "Use a hole puncher to pierce holes in the center of 2 wooden craft flats.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 240,
+     "y": 590,
+     "type": 1,
+     "iconType": 4,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_4.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps2.jpg",
+        "text": "If you cannot use a hole puncher, substitute by using a craft knife. Create holes with a knife by drilling it into the wooden surface with a rotating motion.",
+        "type": 1
+       },
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps3.jpg",
+        "text": "The size of the hole should allow the insertion and rotation of a paper fastening pin.",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps4.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps4_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps5_thumb.jpg",
+   "text": "Prepare 2 pieces of tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps6_thumb.jpg",
+   "text": "Place the craft flats perpendicularly, bind together at the intersection point with tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps7.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps7_thumb.jpg",
+   "text": "Flip over and repeat.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps8.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps8_thumb.jpg",
+   "text": "Cut a hole through the tape. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 179,
+     "y": 632,
+     "type": 1,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_0.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree_admin/res/bce41c5c-64ab-45db-a2f4-2368db531677.jpg",
+        "text": "",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps19.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps19_thumb.jpg",
+   "text": "Insert a paper fastener.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Tower Base",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps9_thumb.jpg",
+   "text": "Cut a wooden craft flat in half.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps10.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps10_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps11.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps11_thumb.jpg",
+   "text": "Remove the round tip from another flat.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 11,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps12.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps12_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps13.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps13_thumb.jpg",
+   "text": "Place the cut flats in a continuous line, preserving a minimal space in between.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps14.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps14_thumb.jpg",
+   "text": "Wrap tape around both flats, patching them together.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps15.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps15_thumb.jpg",
+   "text": "Creating a joint and allowing movement.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 15,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps16.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps16_thumb.jpg",
+   "text": "Repeat the process and create an additional joint.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 16,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps17.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps17_thumb.jpg",
+   "text": "Pierce a hole in the long end of each joint.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps18.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps18_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps20.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps20_thumb.jpg",
+   "text": "Place the joint on the base, make sure the hole is facing up.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps21.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps21_thumb.jpg",
+   "text": "Secure with tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps22.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps22_thumb.jpg",
+   "text": "Repeat the process for the second joint.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps23.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps23_thumb.jpg",
+   "text": "Resulting in the main tower.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Main tower",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step22v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step22v1_thumb.jpg",
+   "text": "Pierce holes in both tip of a craft flat.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps24.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps24_thumb.jpg",
+   "text": "Pierce one hole in the center of the flat and another one about 1'' (2 cm) apart from the hole in the tip.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 24,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps25.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps25_thumb.jpg",
+   "text": "Resulting in a total of 4 holes.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 25,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps26.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps26_thumb.jpg",
+   "text": "Use as a stencil, align and copy the holes onto 3 additional flats.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 26,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps27.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps27_thumb.jpg",
+   "text": "Resulting in a total of 4 identical flats.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 27,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps28.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps28_thumb.jpg",
+   "text": "Hold the 4 pieces together and Insert between the flaps of the main tower.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 28,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps29.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps29_thumb.jpg",
+   "text": "Secure with a paper fastener in the middle hole.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Top level",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 29,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps35.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps35_thumb.jpg",
+   "text": "Pierce holes on both edges of 2 additional flats. On one side, add another hole about 1'' (2 cm) apart from the hole in the tip.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "gripper",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 30,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps36.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps36_thumb.jpg",
+   "text": "Divide the flats equally into thirds.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "gripper",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 31,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps37.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps37_thumb.jpg",
+   "text": "Patch the segments together with tape and create joints.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "gripper",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 32,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps38.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps38_thumb.jpg",
+   "text": "Shape together as a gripper.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "gripper",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 33,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps39.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps39_thumb.jpg",
+   "text": "Insert the gripper between the pierced flats of the main tower. Make sure all holes are aligned.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "gripper",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 34,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps40.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps40_thumb.jpg",
+   "text": "Insert 2 paper fasteners and affix the griper's position.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "gripper",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 35,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps41.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps41_thumb.jpg",
+   "text": "Find a surface of at least 8'' by 8'' (20x20cm) of a hard and durable material. This base surface could be made of cardboard, foam-board or wood.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Hard base",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 36,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps43.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps43_thumb.jpg",
+   "text": "Drill a hole in the center of the base.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 650,
+     "y": 275,
+     "type": 1,
+     "iconType": 4,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_4.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps42.jpg",
+        "text": "Assisted by a ruler, draw 2 straight lines between diagonal vertexes. Drill the hole at the intersection point.",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Hard base",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 37,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps58.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps58_thumb.jpg",
+   "text": "Drill a hole in one of the corners of the base.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Hard base",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 38,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps59.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps59_thumb.jpg",
+   "text": "Pierce a hole in the tip of one of the flats at the base of the arm.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Hard base",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 39,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps44.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps44_thumb.jpg",
+   "text": "Insert a paper fastener through the hole and connect the arm to the hard base.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Hard base",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 40,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps45.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps45_thumb.jpg",
+   "text": "Mount the arm onto the hard base, turn the gripper away from the pierced corner.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Hard base",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 41,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps47.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps47_thumb.jpg",
+   "text": "Divide one flat into five equal segments and pierce a hole in each one.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 42,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps48.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps48_thumb.jpg",
+   "text": "Prepare a strip of approximately 5'' (12 cm) of  tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 43,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps49.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps49_thumb.jpg",
+   "text": "Wrap the tape around the end of a syringe valve. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 44,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps50.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps50_thumb.jpg",
+   "text": "Fold over the short segment, attaching it to the syringe and creating a hinge.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 45,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps51.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps51_thumb.jpg",
+   "text": "Place another piece of tape around the other end of the syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 46,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps52.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps52_thumb.jpg",
+   "text": "Fold the tape over another short wooden segment, creating another hinge.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 47,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps53.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps53_thumb.jpg",
+   "text": "Cut holes through the tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 48,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps54.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps54_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 49,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step46v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step46v1_thumb.jpg",
+   "text": "Cut a segment of approximately 10'' (25 cm) of silicon tubing.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 50,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps55.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps55_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 51,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step48v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step48v1_thumb.jpg",
+   "text": "Immerse the edge of the tubing in hot water, allowing the tips to become adjustable.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 700,
+     "y": 530,
+     "type": 0,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "Plastic materials that are capable of being re-shaped when heated are called thermoplastic materials. These polymers become moldable above a specific temperature and solidify upon cooling."
+     },
+     "width": 0.0,
+     "height": 0.0
+    },
+    {
+     "x": 300,
+     "y": 530,
+     "type": 0,
+     "iconType": 4,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_4.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "An alternate expanding technique suggests using a lighter to heat the tubing, allowing further adjustments or shaping."
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 52,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps56.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps56_thumb.jpg",
+   "text": "Attach one end of the silicon tubing to a syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 320,
+     "y": 440,
+     "type": 0,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_0.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "You may need to use some force to insure the connection. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 53,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps62.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps62_thumb.jpg",
+   "text": "Draw water into a separate syringe, make sure it is full to the maximum capacity.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 54,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps57.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps57_thumb.jpg",
+   "text": "Attach the other end of the tubing to the full syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 55,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step51v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step51v1_thumb.jpg",
+   "text": "Insert 2 paper fasteners through the holes. Affix both to the base surface and the arm's base, on the opposite side of the gripper. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 56,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps61.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps61_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 57,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps64.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps64_thumb.jpg",
+   "text": "Use the controlling syringe and convey water through the tubing to the other syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 58,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step56v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step56v1_thumb.jpg",
+   "text": "Push to rotate the arm in one direction.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 59,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step55v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step55v1_thumb.jpg",
+   "text": "Pull the syringe's plunger to rotate the arm in the other direction.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The first axis",
+   "stepGroupId": 6
+  },
+  {
+   "stepId": 60,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps66.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps66_thumb.jpg",
+   "text": "Attach an additional flat hinge to the plunger of another syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 61,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps68.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps68_thumb.jpg",
+   "text": "Insert a paper fastener and connect the syringe to the back of the arm.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 62,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step59v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step59v1_thumb.jpg",
+   "text": "Cut an additional segment of approximately 10'' (25 cm) of silicon tubing.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 63,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step60v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step60v1_thumb.jpg",
+   "text": "Immerse the edge of the tubing in hot water. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 64,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps69.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps69_thumb.jpg",
+   "text": "Insert the tubing between the tower's pillars and connect to the syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 65,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps70.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps70_thumb.jpg",
+   "text": "Cut a flat in half. Pierce a hole near the straight edge of one of the segments.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 66,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps71.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps71_thumb.jpg",
+   "text": "Patch together with tape, creating a joint. Cut a hole through the tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 67,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps72.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps72_thumb.jpg",
+   "text": "Place the joint on the base, inserting the tube through the hole.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 68,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps73.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps73_thumb.jpg",
+   "text": "Use tape to affix the position of the joint.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 69,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps75.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps75_thumb.jpg",
+   "text": "Draw water into a syringe, make sure it is full to the maximum capacity.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 70,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step60v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step60v1_thumb.jpg",
+   "text": "Reshape the tubing in hot water.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 71,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps76.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps76_thumb.jpg",
+   "text": " Attach the other end of the tubing to the full syringe. Push the syringe's plunger to move the arm down.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 72,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps77.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps77_thumb.jpg",
+   "text": "Pull the plunger to raise the arm back up.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The second axis",
+   "stepGroupId": 7
+  },
+  {
+   "stepId": 73,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps78.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps78_thumb.jpg",
+   "text": "Place a piece of tape around the end of a syringe's valve.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 74,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps79.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps79_thumb.jpg",
+   "text": "Place two of the short wooden segments on the tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 75,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps80.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps80_thumb.jpg",
+   "text": "Fold the tape over both flats, attaching them to the syringe and creating hinges.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 76,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps81.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps81_thumb.jpg",
+   "text": "Cut holes through the tape. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 77,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps31.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps31_thumb.jpg",
+   "text": "Pierce holes on both tips of 2 additional wooden flats.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 78,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps32.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps32_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 79,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps33.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps33_thumb.jpg",
+   "text": "Cut the flats about 2'' (5 cm) from the tip.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 80,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps34.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps34_thumb.jpg",
+   "text": "Patch and create hinges.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 81,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps82.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps82_thumb.jpg",
+   "text": "Insert paper fasteners through the holes in the edge of the 2 flats, connecting the gripper.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 82,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps83.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps83_thumb.jpg",
+   "text": "Make sure that the longer part of the joint is connected directly to the griper.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 83,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps84.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps84_thumb.jpg",
+   "text": "Place the double hinged syringe onto the main beam, pointing the tip away from the gripper. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 84,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps85.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps85_thumb.jpg",
+   "text": "Insert paper fasteners through the holes, connecting the syringe to the gripper.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 85,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps86.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps86_thumb.jpg",
+   "text": "Secure the syringe onto the main beam with a piece of tape.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 86,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps87.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps87_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 87,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step84v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/05_step84v1_thumb.jpg",
+   "text": "Use the remainder of tubing and reshape by immersing in hot water.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 88,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps89.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps89_thumb.jpg",
+   "text": "Draw water into a syringe, make sure it is full to the maximum capacity.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 89,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps88.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps88_thumb.jpg",
+   "text": "Attach one edge of the tubing to the affixed syringe and the other to a free syringe.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 90,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps90.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps90_thumb.jpg",
+   "text": "Push the syringe's plunger to control the gripper, closing the arms.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 91,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps91.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps91_thumb.jpg",
+   "text": "Pull the plunger to open the arms.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "The third axis",
+   "stepGroupId": 8
+  },
+  {
+   "stepId": 92,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps92.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/05/H-ARM_steps92_thumb.jpg",
+   "text": "Explore your invention and test the hydraulic system. Once your done, guard the arm in a safe place for further use in an additional project.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Testing",
+   "stepGroupId": 9
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 80,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

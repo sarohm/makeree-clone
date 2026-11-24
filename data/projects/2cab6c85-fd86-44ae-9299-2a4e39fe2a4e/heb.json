@@ -1,0 +1,1090 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "2cab6c85-fd86-44ae-9299-2a4e39fe2a4e",
+ "projectType": 2,
+ "currentLanguage": "heb",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "468e26a8-8468-47fa-bb25-4a1ad11e9037",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6ef5119b-288a-435c-93e4-e1f0eb8e8a3b.jpg",
+ "nextProjectName": "Robotic Arm",
+ "prevProjectId": "bc6366eb-ce43-428a-b290-06cc0342014a",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/makeree/courses/course2.jpg",
+ "name": "POV Light Stick",
+ "subTitle": null,
+ "description": "The POV light stick is a light emitting stick that creates a trail of light out of a customizable text. Waving the light stick in front of a camera with a long exposure mode, will reveal the Arduino-coded Text. POV stands for persistence of vision, one of many theories explaining how our eyes capture motion and how our brain interprets the information.",
+ "timeToMake": "01:00:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": null,
+ "finishTitle": null,
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": null,
+ "materialsText": null,
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/08/covers/info.jpg",
+ "finishImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/08/covers/info.jpg",
+ "materialsImageUrl": "http://d1xhvexl2i3ere.cloudfront.net/Resources/08/covers/ingredients.jpg",
+ "materials": [
+  {
+   "name": "Arduino Uno Board",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "830 Point Breadboard",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "AA Battery Case",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "220 Ohm Resistor",
+   "imageUrl": null,
+   "quantity": 20,
+   "type": 1
+  },
+  {
+   "name": "LED",
+   "imageUrl": null,
+   "quantity": 20,
+   "type": 1
+  },
+  {
+   "name": "Jumper Wire",
+   "imageUrl": null,
+   "quantity": 21,
+   "type": 1
+  },
+  {
+   "name": "Zip Tie",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "Personal Computer With An Internet Connection",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  }
+ ],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps1_thumb.jpg",
+   "text": "מקם 20 לדים ו-20 נגדים 220 אוהם על גבי משטח העבודה שלך. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps2.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps2_thumb.jpg",
+   "text": "נתק את הלוח בצורת T מלוח המטריצה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps29.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps29_thumb.jpg",
+   "text": "נתק את המכסה מהארדואינו.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps3.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps3_thumb.jpg",
+   "text": "חבר את הלד אל לוח המטריצה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps4.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps4_thumb.jpg",
+   "text": "הכנס את הרגל החיובית של הלד (הרגל הארוכה) אל תוך החריץ בשורה 61 ועמודה J. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps5_thumb.jpg",
+   "text": "הכנס את הרגל הקצרה- השלילית בשולי לוח המטריצה, ליד קו ה-GND הכחול (הארקה) ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps6_thumb.jpg",
+   "text": "הכנס לד נוסף, וודא כי אתה משאיר חריץ פנוי בין לדים סמוכים.  ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps7.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps7_thumb.jpg",
+   "text": "חזור על פעולה זו עבור 18 הלדים הנוספים, שמור על תא אחד פנוי בין לדים. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps8.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps8_thumb.jpg",
+   "text": "הכנס רגל אחת מנגד 220 אוהם לתוך החריץ בשורה 61 ועמודה I.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps9_thumb.jpg",
+   "text": "הכנס את הרגל השנייה לעמודה E אותה השורה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 11,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps10.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps10_thumb.jpg",
+   "text": "חזור על פעולה זו עם יתרת הנגדים. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "הכנת המטריצה",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps11.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps11_thumb.jpg",
+   "text": "מקם את הארדואינו בקצה המרווח של לוח המטריצה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 334,
+     "y": 488,
+     "type": 0,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_0.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "בנקודה זו, אין חיבור מכני המדביק את הארדואינו במקום. יש לטפל בזהירות. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps12.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps12_thumb.jpg",
+   "text": "השתמש בכבל Jumper לחבר כל חריץ מקו GND הכחול לשקע GND של הארדואינו. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 525,
+     "y": 550,
+     "type": 0,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "בעת שימוש בלוח T חיבור זה מושג באופן אוטומטי. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps13.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps13_thumb.jpg",
+   "text": "השתמש בכבל jumper ארוך בכדי לחבר את נורת הלד הראשונה בשורה 61 אל יציאה דיגיטאלית מספר 13 של הארדואינו. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 15,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps14.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps14_thumb.jpg",
+   "text": "חבר את לדים 2-6 אל יציאות דיגיטליות 8-12 בהתאמה. חבר את כבל ה-jumper  מ-2 ל-12, 3 ל-11 וכך הלאה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 16,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps16.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps16_thumb.jpg",
+   "text": "חבר את לדים 7-14 אל יציאות דיגיטליות 0-7 בהתאמה. חבר את כבל ה-jumper  מ-7 ל-7, 8 ל-6 וכך הלאה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps18.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps18_thumb.jpg",
+   "text": "חבר את לד 15 ליציאה אנלוגית מספר 5 של הארדואינו. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps19.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps19_thumb.jpg",
+   "text": "חבר את לדים 16-20 אל יציאות אנלוגיות 0-4 בהתאמה. חבר את כבל ה-jumper  מ-16 ל-4, 17 ל-3 וכך הלאה. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור חוטים",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps20.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps20_thumb.jpg",
+   "text": "חבר את הארדואינו למחשב שלך. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/General/downloads.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/General/downloads_thumb.jpg",
+   "text": "בקר באתר www.makereeapp.com/resources. בחר בתמונה של הפרויקט הרלוונטי והורד את הקוד עבור ה-pov.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/07/07_step28v1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/07/07_step28v1_thumb.jpg",
+   "text": "פתח את הקבצים המקובצים. דאבל קליק על המסמך הנקרא POV בכדי לפתוח את הקוד עם התוכנה הייעודית, שהורדה מוקדם יותר. וודא שהיציאה מכוונת לארדאוניו Uno וטען. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps22.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps22_thumb.jpg",
+   "text": "וודא שנורות הלד על הארדואינו נדלקות. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 560,
+     "y": 600,
+     "type": 0,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "קוד הארדואינו מורה ללדים להידלק ולכבות מעת לעת. התאם את הטקסט שבקוד – כתוב הודעה משלך, התנסה בשינוי ההנחיות המקודדות של המעגל החשמלי והשווה את התוצאה הסופית. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps23.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps23_thumb.jpg",
+   "text": "נתק את הארדואינו מהמחשב שלך. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "העלת תוכנה",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 24,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps21.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps21_thumb.jpg",
+   "text": "הכנס בטריות למארז הסוללה AA. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור הסוללה",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 25,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps24.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps24_thumb.jpg",
+   "text": "השמש בקשר מסוג ZIP בכדי לחבר את הארדואינו, לוח המטריצה ומארז הסוללות יחדיו. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור הסוללה",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 26,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps25.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps25_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 760,
+     "y": 330,
+     "type": 0,
+     "iconType": 4,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_4.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "הדק את קשר ה-ZIP בכדי לאפשר את הנפת ה- POV בחופשיות. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור הסוללה",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 27,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps26.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps26_thumb.jpg",
+   "text": "חבר את מארז בטריות לארדואינו. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 760,
+     "y": 250,
+     "type": 1,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps27tip.jpg",
+        "text": "השקע משמש לחיבור הלוח למקור החשמל נקרא תקע DC. זהו מחבר חשמל לאספקת זרם ישיר. ",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "חיבור הסוללה",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 28,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps27.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps27_thumb.jpg",
+   "text": "נופף בשרביט הלוך וחזור אל מול המראה בכדי לחקור את שובל האור. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 240,
+     "y": 580,
+     "type": 1,
+     "iconType": 3,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_3.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps28tip.jpg",
+        "text": "המצאה זו משתמשת בטכנולוגיה כדי להדגים את עקרון ההתמדה של הראייה. התנועה המהירה של האורות המהבהבים מתורגמת במוח שלנו לקו מתמשך, המציג טקסט שתוכנן במקור בערת ארדואינו. ",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "בדיקה",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 29,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps31.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps31_thumb.jpg",
+   "text": "הורד אפליקציה עם צמצם מצלמה איטי או השתמש במצלמה ולצילום תמונת האור שיצרת. ייתכן ותצטרך להתאים את זמן החשיפה עד שיתאים לתנאי התאורה הנוכחיים. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 490,
+     "y": 580,
+     "type": 0,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_0.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "צור תמונות אור מעניינות באמצעות הנפה וסיבוב קדימה ואחורה של מקל האור אל מול המצלמה. "
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "בדיקה",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 30,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps28.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps28_thumb.jpg",
+   "text": "אתגר את עצמך והשתמש בחותך לייזר בכדי לחתוך בסיס מותאם אישית להחלפת לוח המטריצה. הורד את הקובץ: שיעור 8- POV - cad  מ- www.makeree.com",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "בדיקה",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 31,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps30.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps30_thumb.jpg",
+   "text": "התוצאה- מקל אור מושך ועמיד. ",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 490,
+     "y": 580,
+     "type": 1,
+     "iconType": 2,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/default/default_tip_2.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipImageDataDto, Makeree.Model",
+      "items": [
+       {
+        "url": "https://d1xhvexl2i3ere.cloudfront.net/Resources/08/POV_steps31tip.jpg",
+        "text": "טכנולוגיות חיתוך בלייזר שכיחות למידי בקרב מייקרים. שימוש בקרן לייזר לחיתוך חומרים יכול להיות שימושי בתעשיות ייצור גדולות ממדיים ועבור יצירת אב טיפוס אישי כאחד. ",
+        "type": 1
+       }
+      ]
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "בדיקה",
+   "stepGroupId": 5
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 31,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

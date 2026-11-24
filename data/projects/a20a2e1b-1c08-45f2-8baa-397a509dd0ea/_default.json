@@ -1,0 +1,435 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "a20a2e1b-1c08-45f2-8baa-397a509dd0ea",
+ "projectType": 2,
+ "currentLanguage": "eng",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "6e869f14-6db1-4a0e-8455-2f2b0d435008",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bd448f33-37a4-4b77-8946-31bedae2b147.jpg",
+ "nextProjectName": "Blow Trigger",
+ "prevProjectId": "7ea9ffa4-5c73-48c7-95d2-fbea1f2cf3fd",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e0b75860-9920-42e2-89f3-3ac6e425c826.jpg",
+ "name": "Tilt Trigger",
+ "subTitle": "",
+ "description": "",
+ "timeToMake": "00:00:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": "",
+ "finishTitle": "",
+ "successFormTitle": "",
+ "successFormText": "",
+ "startButtonTitle": "",
+ "materialsText": "",
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9079d3f2-3817-48bb-8788-132dc98d3dec.jpg",
+ "finishImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9079d3f2-3817-48bb-8788-132dc98d3dec.jpg",
+ "materialsImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4ab0921c-9c09-4482-8fd2-158b9badde23.jpg",
+ "materials": [],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/662a6c5b-bb68-49ce-8481-60c75ecbdeb0.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/662a6c5b-bb68-49ce-8481-60c75ecbdeb0_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7e0af7f7-6331-480b-803b-8d780a9d88de.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7e0af7f7-6331-480b-803b-8d780a9d88de_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7e34c2ad-5d6e-4676-bda5-332ff2a9b239.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7e34c2ad-5d6e-4676-bda5-332ff2a9b239_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bf21a4df-b187-450f-97e3-caa669b0d58f.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bf21a4df-b187-450f-97e3-caa669b0d58f_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/181d42f9-a200-41b0-81b3-0a28b216c1be.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/181d42f9-a200-41b0-81b3-0a28b216c1be_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/165a3b72-ff6e-40bb-a196-27308d1ceb66.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/165a3b72-ff6e-40bb-a196-27308d1ceb66_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/69bd518c-7828-4d1e-bddd-a6f28f8fd887.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/69bd518c-7828-4d1e-bddd-a6f28f8fd887_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/05e06e9d-146d-4ff2-b2a4-8312a9efaf39.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/05e06e9d-146d-4ff2-b2a4-8312a9efaf39_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": null,
+   "stepGroup": "",
+   "stepGroupId": 1
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 8,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

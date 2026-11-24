@@ -1,0 +1,81 @@
+{
+ "sectionName": "Arduino Inventions",
+ "sectionId": "227b4127-2679-43ff-a605-defcf1b966d3",
+ "guides": [
+  {
+   "projectId": "ed17d097-d1ab-4f2e-9d73-2497da560fe0",
+   "projectName": "What is Arduino?",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/arduino-00/covers/map.jpg",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "58e8297f-f090-4402-a5c6-57dd1364361d",
+   "projectName": "Blink and Beyond",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/890d9060-b97e-468c-a501-e009c2c2bbac.jpg",
+   "mapItemType": 0,
+   "time": "00:45:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "056e65bd-ec2b-4cce-97a8-045f935ac289",
+   "projectName": "Simon game",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b63b6e9c-a99e-4bc4-a5ce-60f828a4a157.jpg",
+   "mapItemType": 0,
+   "time": "00:45:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "bc6366eb-ce43-428a-b290-06cc0342014a",
+   "projectName": "Theremin",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4f8bb2db-b031-4ad9-9772-f229bc84bf2d.jpg",
+   "mapItemType": 0,
+   "time": "00:35:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "2cab6c85-fd86-44ae-9299-2a4e39fe2a4e",
+   "projectName": "POV Light Stick",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e5fcc34a-bc28-4ebc-83d7-6a9526a00659.jpg",
+   "mapItemType": 0,
+   "time": "01:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "468e26a8-8468-47fa-bb25-4a1ad11e9037",
+   "projectName": "Robotic Arm",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6ef5119b-288a-435c-93e4-e1f0eb8e8a3b.jpg",
+   "mapItemType": 0,
+   "time": "02:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "14380757-fbff-46eb-a827-34965aacda71",
+   "projectName": "Laser Spirograph",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0036271b-6972-41d9-9556-eef78a16808b.jpg",
+   "mapItemType": 0,
+   "time": "03:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "8ce50ec3-5bb2-4fea-b890-602677039488",
+   "projectName": "Be Creative",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/73ee39c6-ea03-4c7b-b708-912d7b8634e9.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/makeree/courses/course2.jpg",
+ "isMultipart": false,
+ "error": 0
+}

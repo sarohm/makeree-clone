@@ -1,0 +1,500 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "24c78592-a63f-4f48-b730-77986f41778e",
+ "projectType": 2,
+ "currentLanguage": "fra",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "6a26f889-64ea-45da-b427-d45d2d832f15",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a289b410-7c16-4068-a0ef-b5c6e89241b0.jpg",
+ "nextProjectName": "Electric Module",
+ "prevProjectId": "",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/35046f3d-e34b-48fa-a57e-5d571d3f5d9d.jpg",
+ "name": "Mechanical Contraptions",
+ "subTitle": "",
+ "description": "",
+ "timeToMake": "00:00:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": "",
+ "finishTitle": null,
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": null,
+ "materialsText": null,
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/59419e65-ab67-4c8f-a75b-1f78753a0a58.jpg",
+ "finishImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/59419e65-ab67-4c8f-a75b-1f78753a0a58.jpg",
+ "materialsImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ca553c39-b7a7-425b-ae0c-11e6c72ffa5a.jpg",
+ "materials": [],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f645484a-8a6d-4fa8-8e84-3b9c7879f0f8.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f645484a-8a6d-4fa8-8e84-3b9c7879f0f8_thumb.jpg",
+   "text": "The large holes fit an Expo dry marker.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/16ddc155-85a1-4db6-97f7-68601756b4c9.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "This is how you can connect platforms using multiple plates.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/39f9ef86-0b4f-4aac-b01c-50d73449e748.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/39f9ef86-0b4f-4aac-b01c-50d73449e748_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ec523334-1115-4d61-b1e0-29185e63f890.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ec523334-1115-4d61-b1e0-29185e63f890_thumb.jpg",
+   "text": "Markers can be stacked!",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b50186d4-907e-4f24-ab34-98aa608d174f.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b50186d4-907e-4f24-ab34-98aa608d174f_thumb.jpg",
+   "text": "The narrow holes fit pencils",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/182d6fb9-3efa-4884-9c16-6a773310ea22.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/182d6fb9-3efa-4884-9c16-6a773310ea22_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/8bffb472-7ab9-4d3d-97af-970d819371eb.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/3dbe3d6a-0b77-44fd-84aa-e4a8a029d25c.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/videos/b1f3f66d-12d7-443f-844e-8d14e7be0056.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "",
+   "stepGroupId": 1
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 9,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

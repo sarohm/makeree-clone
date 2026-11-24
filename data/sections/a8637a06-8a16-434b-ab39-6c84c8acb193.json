@@ -1,0 +1,81 @@
+{
+ "sectionName": "Maker's Essentials",
+ "sectionId": "a8637a06-8a16-434b-ab39-6c84c8acb193",
+ "guides": [
+  {
+   "projectId": "d279697f-f8c5-4161-b66e-51495d4fc172",
+   "projectName": "What is making?",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree_admin/res/ab9e85b8-a641-4dab-b9f2-4fd7eea4a1ce.png",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": true
+  },
+  {
+   "projectId": "36c8b591-40f9-4158-820b-2aa15b36f326",
+   "projectName": "Electromagnet",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/da973591-8766-406f-8197-64df284e5463.png",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "2f74c6dc-2fdb-4c8d-a8ec-2e142c9a9316",
+   "projectName": "Homopolar Motor",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/95640bf7-278a-48d5-9125-4bf01c7d9301.jpg",
+   "mapItemType": 0,
+   "time": "00:25:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "92f6d583-9e10-4344-afd6-1d1aacf86e63",
+   "projectName": "Motor Challenge",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2f1ccb86-790a-4b52-bdac-44b1dda213ca.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "7ff10bda-2847-4178-89e9-4ee004a1d8ea",
+   "projectName": "Earphone",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/11172152-5c0c-469d-9964-34e60fff243c.jpg",
+   "mapItemType": 0,
+   "time": "00:35:00",
+   "hideTotalStepsNr": true,
+   "hideStepTitles": true
+  },
+  {
+   "projectId": "0f3cae15-f0ce-4d8b-b616-eba613b396e1",
+   "projectName": "Musical Pencil",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/62e54135-a2af-4094-8fdf-659fa89eebca.jpg",
+   "mapItemType": 0,
+   "time": "00:45:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "ba73350b-beee-487c-a15a-5ca437961528",
+   "projectName": "Hydraulic Arm",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/58769654-d72e-408a-8229-4688f29c2fd1.jpg",
+   "mapItemType": 0,
+   "time": "02:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "3d15801c-b598-4d31-bea2-f0f2f2554682",
+   "projectName": "Be Creative",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bb322636-a26d-4177-b71f-73a9b3a65698.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/Resources/makeree/courses/course1_1.jpg",
+ "isMultipart": true,
+ "error": 0
+}

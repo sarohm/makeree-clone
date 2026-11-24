@@ -1,0 +1,1949 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "e96786a2-05ad-4e51-a98c-dd9c2aab2cfc",
+ "projectType": 2,
+ "currentLanguage": "fra",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "64c678d6-b9b2-47f8-abf8-766bebb97d0f",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f9e385d0-556d-4faf-b111-789ac1fed00a.jpg",
+ "nextProjectName": "מנוע למכונית",
+ "prevProjectId": "c7324742-e1ff-4872-a338-dc1d45c0c458",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1dddae2f-7b4f-42ac-8502-eec54aed40a7.jpg",
+ "name": "מכונית",
+ "subTitle": "",
+ "description": "",
+ "timeToMake": "00:30:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": "",
+ "finishTitle": null,
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": null,
+ "materialsText": null,
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e8929a64-b93e-46f4-9dfc-703cba95339c.jpg",
+ "finishImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e8929a64-b93e-46f4-9dfc-703cba95339c.jpg",
+ "materialsImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/583347eb-a325-4742-ab6a-86b7dce9fa21.jpg",
+ "materials": [
+  {
+   "name": "סליל תיל ממתכת",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "סליל סרט דביק",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "סליל נייר כסף",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "שיפודי עץ",
+   "imageUrl": null,
+   "quantity": 2,
+   "type": 1
+  },
+  {
+   "name": "קשים",
+   "imageUrl": null,
+   "quantity": 3,
+   "type": 1
+  },
+  {
+   "name": "פקקים",
+   "imageUrl": null,
+   "quantity": 8,
+   "type": 1
+  },
+  {
+   "name": "בלון",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 1
+  },
+  {
+   "name": "צבת",
+   "imageUrl": null,
+   "quantity": 1,
+   "type": 2
+  }
+ ],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c2edf5eb-1921-4a51-b379-5cc59ab99d27.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c2edf5eb-1921-4a51-b379-5cc59ab99d27_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": true,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7842.mov",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/afa3e0ba-f366-4356-896a-5a8fbbcc4ab5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/afa3e0ba-f366-4356-896a-5a8fbbcc4ab5_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bb759ffd-8b32-49ae-9558-9dce0264d276.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bb759ffd-8b32-49ae-9558-9dce0264d276_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/19c9d116-f454-4738-adf5-b8649d760de6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/19c9d116-f454-4738-adf5-b8649d760de6_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e2effa27-2027-41d2-9438-166d5344c9c3.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e2effa27-2027-41d2-9438-166d5344c9c3_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/84899f7a-e041-457e-bf5d-787ee4832287.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/84899f7a-e041-457e-bf5d-787ee4832287_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f70f0528-4d39-42af-8d1b-3a73fd1013cd.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f70f0528-4d39-42af-8d1b-3a73fd1013cd_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/487ebd35-4d66-4209-8e52-a287e3410e74.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/487ebd35-4d66-4209-8e52-a287e3410e74_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "מבנה המכונית",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a1bda207-1e5a-4523-a490-d26a24e7cf77.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a1bda207-1e5a-4523-a490-d26a24e7cf77_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 11,
+   "url": "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7861.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4c961e08-2fd6-470a-8c24-de5fe61d62d9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4c961e08-2fd6-470a-8c24-de5fe61d62d9_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/098a1d36-73e2-44e8-ac12-17b343f2f913.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/098a1d36-73e2-44e8-ac12-17b343f2f913_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5fd86085-f1bf-484f-acdf-8a4de592771b.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5fd86085-f1bf-484f-acdf-8a4de592771b_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 15,
+   "url": "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7870.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 16,
+   "url": "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7873.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ae8d1da5-7951-45fb-be51-5fcee4289fe9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ae8d1da5-7951-45fb-be51-5fcee4289fe9_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2104958a-de50-4515-9296-f005ea23a237.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2104958a-de50-4515-9296-f005ea23a237_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9ba5d054-a219-45f7-a172-a658272622a6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9ba5d054-a219-45f7-a172-a658272622a6_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a5c0d262-fe36-429b-9a11-834457e80cb4.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a5c0d262-fe36-429b-9a11-834457e80cb4_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0d4210b3-6dc8-447c-8ea2-f43d62e98459.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0d4210b3-6dc8-447c-8ea2-f43d62e98459_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/97cc0a79-2f57-43b4-90b6-13465bb14d03.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/97cc0a79-2f57-43b4-90b6-13465bb14d03_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dffe2d21-1538-4752-bb6b-cf05f647a2d5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dffe2d21-1538-4752-bb6b-cf05f647a2d5_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 24,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bb90c7bd-8c45-4f69-aac5-895603820a0e.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bb90c7bd-8c45-4f69-aac5-895603820a0e_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 25,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/689b6a1b-7cba-44bd-a633-d4b14e072b57.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/689b6a1b-7cba-44bd-a633-d4b14e072b57_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 26,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/40a396d4-709f-4a47-ac51-fc2c93222fbb.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/40a396d4-709f-4a47-ac51-fc2c93222fbb_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 27,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dd321294-b705-4387-a7a7-a6485ad007e2.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dd321294-b705-4387-a7a7-a6485ad007e2_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 28,
+   "url": "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7906.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 29,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/98752ff0-00c0-4de1-b895-15316ea62aae.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/98752ff0-00c0-4de1-b895-15316ea62aae_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 30,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1d7053ab-ed44-48ef-b55d-8c73816b3572.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1d7053ab-ed44-48ef-b55d-8c73816b3572_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "בסיס המכונית",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 31,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/41c20b0b-3747-45dd-b14c-48a2bd63f5e1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/41c20b0b-3747-45dd-b14c-48a2bd63f5e1_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 32,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/44fdc899-81bb-47c8-97d3-e29c1f4e6627.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/44fdc899-81bb-47c8-97d3-e29c1f4e6627_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 33,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/410b7b65-a1ea-4204-9cc9-c1a27cd3371d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/410b7b65-a1ea-4204-9cc9-c1a27cd3371d_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 34,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/10515f2c-8edf-4c8f-9dae-a2f557467e13.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/10515f2c-8edf-4c8f-9dae-a2f557467e13_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 35,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b03b33d8-9dad-4138-8805-a0332c90eead.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b03b33d8-9dad-4138-8805-a0332c90eead_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 36,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/8fd0452c-7b5a-4674-ab8a-b1738584818d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/8fd0452c-7b5a-4674-ab8a-b1738584818d_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 37,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9e1ee195-1a63-4ece-8e29-3a8c8010fd4b.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9e1ee195-1a63-4ece-8e29-3a8c8010fd4b_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 38,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1ce760f2-8371-45c5-97c1-6da350c5f0dd.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1ce760f2-8371-45c5-97c1-6da350c5f0dd_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 39,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ce1318a1-69ee-42be-95aa-607e43420a86.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ce1318a1-69ee-42be-95aa-607e43420a86_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 40,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a5fdb8ba-8195-4292-adf7-60b801d845b6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a5fdb8ba-8195-4292-adf7-60b801d845b6_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 41,
+   "url": "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7946.mp4",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 3,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 42,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b56eabef-bae5-41b3-8b36-7c2e2d06e83b.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b56eabef-bae5-41b3-8b36-7c2e2d06e83b_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 43,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6db20c06-18d8-473a-87ab-61d22c6ea4f1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6db20c06-18d8-473a-87ab-61d22c6ea4f1_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 44,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a8cb9db8-2dd0-4522-9cfa-fc9bfea82c76.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a8cb9db8-2dd0-4522-9cfa-fc9bfea82c76_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 45,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/75a86556-4947-4fbf-a57d-3c3543b19019.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/75a86556-4947-4fbf-a57d-3c3543b19019_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 46,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e004486b-45bd-43a2-ae8b-7f69c81bfa3d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e004486b-45bd-43a2-ae8b-7f69c81bfa3d_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 47,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/3ab7b628-0217-47be-a219-7cc62a0bdd71.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/3ab7b628-0217-47be-a219-7cc62a0bdd71_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 48,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/987d0eef-7a64-49e4-a15e-c9a4edd6f0a7.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/987d0eef-7a64-49e4-a15e-c9a4edd6f0a7_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 49,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/701ced87-cc90-4b4a-9abc-cbbb81f27a03.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/701ced87-cc90-4b4a-9abc-cbbb81f27a03_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 50,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6f7dc46c-c38a-423f-817c-2ea9fd28b5b5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6f7dc46c-c38a-423f-817c-2ea9fd28b5b5_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 51,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/36487663-4fb5-41e6-93b7-a9ca5fc2f642.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/36487663-4fb5-41e6-93b7-a9ca5fc2f642_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 52,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0388a2ba-28b9-46d8-9703-c56f44a27d81.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0388a2ba-28b9-46d8-9703-c56f44a27d81_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 53,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7546d777-a6f5-4a76-ab51-9f42c7bbe15c.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7546d777-a6f5-4a76-ab51-9f42c7bbe15c_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 54,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/106b0204-9b4a-4344-9e3c-3a24e43acc46.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/106b0204-9b4a-4344-9e3c-3a24e43acc46_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 55,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dc753ec2-6665-4eac-a1c0-82850b3c5a9c.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dc753ec2-6665-4eac-a1c0-82850b3c5a9c_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 56,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ba1448f3-fd21-4d27-8411-17600190c675.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ba1448f3-fd21-4d27-8411-17600190c675_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 57,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0cc6dbde-f836-4442-8d40-5d04fa834c16.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0cc6dbde-f836-4442-8d40-5d04fa834c16_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 58,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ce9892d8-39be-48d7-ae1f-433017f98cc9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ce9892d8-39be-48d7-ae1f-433017f98cc9_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 59,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/8af9657b-cf89-41e3-a7d6-02ef8645a3be.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/8af9657b-cf89-41e3-a7d6-02ef8645a3be_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 60,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e4ba9024-6f6d-4aad-905e-6f69de367902.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e4ba9024-6f6d-4aad-905e-6f69de367902_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 61,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a7059254-1795-4771-bdf9-ff9f6719a96a.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a7059254-1795-4771-bdf9-ff9f6719a96a_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 62,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a41e0bf6-da3d-4715-831b-da9d91010d27.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a41e0bf6-da3d-4715-831b-da9d91010d27_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 63,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b14b6c6e-8027-407e-b15c-4b2323a6817a.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b14b6c6e-8027-407e-b15c-4b2323a6817a_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 64,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/77b5a97d-2a97-4f1a-8b95-1364b972a3ef.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/77b5a97d-2a97-4f1a-8b95-1364b972a3ef_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 65,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9663c0de-4fbe-4c22-bf67-e562def21bb5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9663c0de-4fbe-4c22-bf67-e562def21bb5_thumb.jpg",
+   "text": "",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": null,
+   "stepGroupId": 5
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 65,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

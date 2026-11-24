@@ -1,0 +1,897 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "c6f7a77f-53e2-4452-b432-ad63502a749e",
+ "projectType": 2,
+ "currentLanguage": "eng",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "653dd1d1-554d-4a89-b066-7c5724ca613e",
+ "nextProjectImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/91865805-977f-400f-a83a-0c3c83cebcc1.jpg",
+ "nextProjectName": "Working with Analog Sensors",
+ "prevProjectId": "4f1d7004-ce1f-4b6f-bbcf-b3208d141079",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b4f09963-870c-4dd9-b9fe-e9d9040e4cec.jpg",
+ "name": "My First Ardublock Program - ESP8266 Board",
+ "subTitle": "",
+ "description": "",
+ "timeToMake": "00:00:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": "",
+ "finishTitle": "",
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": "",
+ "materialsText": "",
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5f512240-f89c-48a6-9362-3392b28427b1.jpg",
+ "finishImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5f512240-f89c-48a6-9362-3392b28427b1.jpg",
+ "materialsImageUrl": "",
+ "materials": [],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b11c9b87-2600-4455-ab47-0eb4f56c8467.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b11c9b87-2600-4455-ab47-0eb4f56c8467_thumb.jpg",
+   "text": "In your Arduino IDE, go to File> Preferences",
+   "title": "Install ESP8266 Board Manager in Arduino IDE",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Installing ESP8266 Board Manager",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4d7572c7-5728-4e39-b5e8-4f315de7cd50.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4d7572c7-5728-4e39-b5e8-4f315de7cd50_thumb.jpg",
+   "text": "Find the “Additional Boards Manager URLs” field and type in http://arduino.esp8266.com/stable/package_esp8266com_index.json as shown in the figure below. Then, click the “OK” button.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 779,
+     "y": 378,
+     "type": 0,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/9f0f04ad-179a-4434-b47d-198a1747d9ab.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "if you already have the another board manager url at that field (for example, the ESP32 boards URL) you can separate the URLs with a comma as follows:\nhttps://dl.espressif.com/dl/package_esp32_index.json, https://bit.ly/esp8266-bm"
+     },
+     "width": 0.0,
+     "height": 0.0
+    },
+    {
+     "x": 896,
+     "y": 453,
+     "type": 2,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/53c3614b-fe72-4028-9e28-a7a38f0dca56.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipUrlDataDto, Makeree.Model",
+      "url": "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Installing ESP8266 Board Manager",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/28cbb210-cab0-4284-a88c-1f0bf26bdbc1.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/28cbb210-cab0-4284-a88c-1f0bf26bdbc1_thumb.jpg",
+   "text": "Open the Boards Manager. Go to Tools > Board > Boards Manager…",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Installing ESP8266 Board Manager",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9014554c-3af7-4edc-8585-47415c226e77.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9014554c-3af7-4edc-8585-47415c226e77_thumb.jpg",
+   "text": "Search for ESP8266 and press install button for the “ESP8266 by ESP8266 Community“:",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Installing ESP8266 Board Manager",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d3a2e992-16a9-48bd-8832-43438ff70638.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d3a2e992-16a9-48bd-8832-43438ff70638_thumb.jpg",
+   "text": "That’s it. It should be installed after a few seconds (depending on your internet speed)",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Installing ESP8266 Board Manager",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b7c33d30-95e7-472f-8953-b1b9a38da3b2.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b7c33d30-95e7-472f-8953-b1b9a38da3b2_thumb.jpg",
+   "text": "Make sure the board is NOT connected to your computer's USB. Go to Tools -> Port menu and remember (or take a screenshot of) the options listed (depending on your computer, there might be none - that is ok). \nNext, connect your board to the computer using the attached USB cable, click anywhere on the screen to close the tools menu, and open Tools -> Port again. Select the option that was just added. Usually, it would be the last option.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "General Configuration",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2c64c40d-a863-4b18-b5ac-da68bc1355a5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2c64c40d-a863-4b18-b5ac-da68bc1355a5_thumb.jpg",
+   "text": "Open Tools -> Board menu and scroll down to find and select your board",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "General Configuration",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/502d69da-5122-44b4-9ffb-99b65bd604a9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/502d69da-5122-44b4-9ffb-99b65bd604a9_thumb.jpg",
+   "text": "Scroll down and choose the LOLIN (WEMOS) D1 R2 an& mini board",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "General Configuration",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/03eb0f97-e0d7-4c39-adda-c7d24c484500.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/03eb0f97-e0d7-4c39-adda-c7d24c484500_thumb.jpg",
+   "text": "If you are using a MAC computer you, change the upload speed under Tools -> Upload Speed to 115200",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "General Configuration",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cee2ad82-2379-4b08-9ab3-641288f729a7.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cee2ad82-2379-4b08-9ab3-641288f729a7_thumb.jpg",
+   "text": "Open the Ardublock editor by clicking on Tools -> ArduBlock | Enhanced by Forreal Team. This is the editor we will use to write code with, by dragging and connecting blocks located in the Drawers to the left onto the main work area. In any case you are not sure where a certain block came from, look for the drawer with the same color as the block. This will get you in the right place about 95% of the time...",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 11,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d69432cc-4f76-4add-8cfd-5fa99200d2fb.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d69432cc-4f76-4add-8cfd-5fa99200d2fb_thumb.jpg",
+   "text": "Start by dragging a 'digital write' block from the 'Output' drawer onto the working area",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f43dcb3e-d378-47d9-8c1c-9785b5ee17bc.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f43dcb3e-d378-47d9-8c1c-9785b5ee17bc_thumb.jpg",
+   "text": "Repeat the process with a 'delay milliseconds' block from the 'Control' drawer",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b7b16fa2-b4de-4179-8a12-6ed56e1d8480.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b7b16fa2-b4de-4179-8a12-6ed56e1d8480_thumb.jpg",
+   "text": "Connect the two blocks to one another by dragging them close to each other",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/40f3df1f-edf9-45a9-875e-afb356e6ee4a.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/40f3df1f-edf9-45a9-875e-afb356e6ee4a_thumb.jpg",
+   "text": "Next, dragging the top block, insert both  blocks into the 'loop' block. The loop is where the program executes. Anything not connected to the loop will not run (or, in programming lingo, get executed).",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [
+    {
+     "x": 432,
+     "y": 159,
+     "type": 0,
+     "iconType": 0,
+     "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/layers/096702f3-7f10-461f-866c-df2f41e1457d.png",
+     "isOpened": false,
+     "openAutoSec": 0,
+     "data": {
+      "$type": "Makeree.Model.Responses.LessonStepTipTextDataDto, Makeree.Model",
+      "text": "Why drag from the top block? Because dragging the bottom one will cause the blocks to separate from each other"
+     },
+     "width": 0.0,
+     "height": 0.0
+    }
+   ],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 15,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bea9f80e-aa4d-43dc-b68a-f2baf6f43d50.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bea9f80e-aa4d-43dc-b68a-f2baf6f43d50_thumb.jpg",
+   "text": "Hover the pin definition in the digital write block and click on the triangle that appears",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 16,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0bea1e86-e567-4d1b-917a-fe267539d198.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0bea1e86-e567-4d1b-917a-fe267539d198_thumb.jpg",
+   "text": "A drop down menu will appear - select the D4 pin, wihch is connected to a built in LED",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a4447d2e-5496-4a18-9041-5dc73dfd760b.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a4447d2e-5496-4a18-9041-5dc73dfd760b_thumb.jpg",
+   "text": "Press enter to make sure your choice was registered",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/fe3899a5-750e-4403-a2cd-ce20cc12e4ba.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/fe3899a5-750e-4403-a2cd-ce20cc12e4ba_thumb.jpg",
+   "text": "Right click the 'digital write' block and choose 'clone'",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/200543f2-0c47-4c09-83bd-7bd1622cf0e6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/200543f2-0c47-4c09-83bd-7bd1622cf0e6_thumb.jpg",
+   "text": "Connect the cloned blocks to the bottom of the original ones and hover above the second digital write's 'HIGH' section.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/50c20642-6a5a-4645-a3df-f55894672e2d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/50c20642-6a5a-4645-a3df-f55894672e2d_thumb.jpg",
+   "text": "Click the triangle that appears and select 'LOW'. This is how your program should now look like. Can you tell what it is doing? An LED is connected to digital pin D4 of the Arduino, and switching it to 'HIGH' and LOW in intervals of one second will cause it to blink! Let's test that",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/363e44b5-e4a9-4eba-9838-03e6c48f4975.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/363e44b5-e4a9-4eba-9838-03e6c48f4975_thumb.jpg",
+   "text": "Click the 'Save' button to save your first Arduino program, also known as Sketch, under a suitable name to your liking, for example 'Blink'",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/3a8a1918-c210-45a8-8891-bd0225f54025.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/3a8a1918-c210-45a8-8891-bd0225f54025_thumb.jpg",
+   "text": "Click on the 'Upload to Arduino' button  to send your program to the board. \nOn first upload, you will also need to save the C++ code that was generated from your blocks. Don't worry too much about it, as this code is auto generated. Just hit the 'Save' button and wait for the 'Upload complete' message at the bottom of the cyan Arduino screen. In case a red error message appears, double check the Board, Port, Processor and Upload Speed definitions under 'Tools' menu, going back the the Ardublock Initial Setup guide if you need to.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/499f252a-79c7-4c6d-b457-b801dbb3b4bb.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/499f252a-79c7-4c6d-b457-b801dbb3b4bb_thumb.jpg",
+   "text": "Try changing the numbers next to the delay commands. Can you tell what each number means? And how fast is your eye? at what frequency exactly do you stop seeing the blink? And is there a way to see the blink even at high blinking frequencies without fast frame rate photography?",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Your first program: Hello, World!",
+   "stepGroupId": 4
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 16,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

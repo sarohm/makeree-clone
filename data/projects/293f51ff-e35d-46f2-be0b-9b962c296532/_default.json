@@ -1,0 +1,1500 @@
+{
+ "appName": "makeree",
+ "companyName": "Makeree",
+ "isPoweredByVisible": false,
+ "showSearch": true,
+ "placeholderSearch": null,
+ "customBackTitle": null,
+ "customBackUrl": null,
+ "projectId": "293f51ff-e35d-46f2-be0b-9b962c296532",
+ "projectType": 2,
+ "currentLanguage": "eng",
+ "themeSettings": [
+  {
+   "property": "termsUrl",
+   "value": "https://www.makeree.com/terms"
+  },
+  {
+   "property": "termsEnabled",
+   "value": "true"
+  },
+  {
+   "property": "logo",
+   "value": "https://makeree.s3-eu-west-1.amazonaws.com/makeree/web/makeree-logo.png"
+  },
+  {
+   "property": "logoUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "galleryEnabled",
+   "value": "true"
+  },
+  {
+   "property": "customGalleryTitle",
+   "value": "Shared images"
+  },
+  {
+   "property": "stepsLogoEnabled",
+   "value": "true"
+  },
+  {
+   "property": "stepTextContentPercentage",
+   "value": "38.5"
+  },
+  {
+   "property": "hideContactForm",
+   "value": "false"
+  },
+  {
+   "property": "hideLanguages",
+   "value": "false"
+  },
+  {
+   "property": "alwaysShowCurrentStepNumber",
+   "value": "true"
+  },
+  {
+   "property": "defaultBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "defaultTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "defaultIconsColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "controllerBackgroundColor",
+   "value": "#306aec"
+  },
+  {
+   "property": "controllerTextColor",
+   "value": "#12191F"
+  },
+  {
+   "property": "buttonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "buttonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "progressBarColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "stepBackgroundColor",
+   "value": "#8ec9f1"
+  },
+  {
+   "property": "stepTextBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "stepTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "textStepBackgroundColor",
+   "value": "#282643"
+  },
+  {
+   "property": "textStepTextColor",
+   "value": "#6fc0d4"
+  },
+  {
+   "property": "splitDecisionTextColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionBackgroundColor",
+   "value": "#f5f8fa"
+  },
+  {
+   "property": "splitDecisionButtonBackgroundColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "splitDecisionButtonTextColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "menuTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "menuCheckColor",
+   "value": "#7EC5D9"
+  },
+  {
+   "property": "popupBackgroundColor",
+   "value": "#ffffff"
+  },
+  {
+   "property": "popupTextColor",
+   "value": "#000000"
+  },
+  {
+   "property": "customCss",
+   "value": ""
+  },
+  {
+   "property": "galleryEmodji",
+   "value": "true"
+  },
+  {
+   "property": "hideAskAQuestion",
+   "value": "false"
+  },
+  {
+   "property": "showSearch",
+   "value": "true"
+  },
+  {
+   "property": "demo",
+   "value": "true"
+  },
+  {
+   "property": "webappHeadaer",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "openingScreenBg",
+   "value": "#FFFFFF"
+  },
+  {
+   "property": "mainCustomBackTitle",
+   "value": "Support"
+  },
+  {
+   "property": "mainCustomBackUrl",
+   "value": "https://www.makeree.com/"
+  },
+  {
+   "property": "webAppLogoOnTop",
+   "value": "true"
+  },
+  {
+   "property": "webAppTopBanner",
+   "value": "true"
+  },
+  {
+   "property": "poweredMakeree",
+   "value": "false"
+  },
+  {
+   "property": "swipeUp",
+   "value": "false"
+  }
+ ],
+ "languages": [
+  {
+   "languageCode": "eng",
+   "languageName": "English",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "heb",
+   "languageName": "Hebrew",
+   "clientLanguageCode": ""
+  },
+  {
+   "languageCode": "fra",
+   "languageName": "French",
+   "clientLanguageCode": ""
+  }
+ ],
+ "nextProjectId": "",
+ "nextProjectImageUrl": "",
+ "nextProjectName": "",
+ "prevProjectId": "981a59dd-7c06-4bcf-b896-b55bf75bcb15",
+ "partNumber": -1,
+ "isHideIntro": false,
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/35046f3d-e34b-48fa-a57e-5d571d3f5d9d.jpg",
+ "name": "Working with Analog Sensors",
+ "subTitle": "",
+ "description": "",
+ "timeToMake": "00:00:00",
+ "hideTotalStepsNr": false,
+ "hideStepTitles": false,
+ "addPhotoStep": false,
+ "hideIntroductionScreen": false,
+ "finishText": "",
+ "finishTitle": "",
+ "successFormTitle": null,
+ "successFormText": null,
+ "startButtonTitle": "",
+ "materialsText": "",
+ "isStandalone": false,
+ "hasCustomResources": false,
+ "infoImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2d5cfac2-cb66-4b73-a067-abb3efcc93b1.jpg",
+ "finishImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2d5cfac2-cb66-4b73-a067-abb3efcc93b1.jpg",
+ "materialsImageUrl": "",
+ "materials": [],
+ "stepsFontText": "",
+ "stepsFontShadow": false,
+ "hideContactUs": false,
+ "fontSizeFactor": 0.0,
+ "mode": 1,
+ "disableMaterialsTitles": false,
+ "lessonSteps": [
+  {
+   "stepId": 1,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b93d4085-7972-42ae-8d9f-c412cc1f06a3.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b93d4085-7972-42ae-8d9f-c412cc1f06a3_thumb.jpg",
+   "text": "Connect the sound sensor to the sensor shield's A0 pin",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 2,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/864a2ee6-a9ca-46f6-96ff-5a0527cd231e.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/864a2ee6-a9ca-46f6-96ff-5a0527cd231e_thumb.jpg",
+   "text": "If not already open, start the Ardublock editor via the Arduino menu: Tools -> Ardublock | enhanced by ForReal Team",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 3,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dcb6b2e2-6d43-4e5e-b6a8-201e02f87994.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dcb6b2e2-6d43-4e5e-b6a8-201e02f87994_thumb.jpg",
+   "text": "Take the serial println block from the Communication drawer and attach it to your loop. This block sends data from the microcontroller to the computer, to be printed (or processed otherwise)",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 4,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b16dbed0-41d3-446d-8957-a1ea1246ce0c.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b16dbed0-41d3-446d-8957-a1ea1246ce0c_thumb.jpg",
+   "text": "Discard from the message block that comes attached to it, as we will only want to print out the sound level values coming from the sensor",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 5,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b9e6fa71-1302-4596-95fe-105d606abd41.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b9e6fa71-1302-4596-95fe-105d606abd41_thumb.jpg",
+   "text": "Take out the analog read block from the Input drawer. This block reads the value coming from the sensor in the form of a number ranging between 0 to 1023",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 6,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ad5d94db-2f95-4248-9d56-190529ca91aa.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ad5d94db-2f95-4248-9d56-190529ca91aa_thumb.jpg",
+   "text": "In order to connect them you will need to get the triangle ended glue block from the Communication drawer",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 7,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a90e84e9-301e-4dd8-9f14-e1315f0f0c74.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a90e84e9-301e-4dd8-9f14-e1315f0f0c74_thumb.jpg",
+   "text": "Put them all together like so",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 8,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/54dd7c9e-716a-4786-8dda-b59926003183.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/54dd7c9e-716a-4786-8dda-b59926003183_thumb.jpg",
+   "text": "Press the upload button",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 9,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6a913f01-844e-4245-b630-378998cc84ae.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6a913f01-844e-4245-b630-378998cc84ae_thumb.jpg",
+   "text": "Make sure that upload is successful",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 10,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b530857b-540f-4040-8d1e-f9889455109f.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b530857b-540f-4040-8d1e-f9889455109f_thumb.jpg",
+   "text": "Go back to the Ardublock window and press the Serial Monitor button on the top right. The numbers you are seeing are the live readings of the sensor representing sound level",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 11,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cccc598b-ae7a-4107-9d69-698267e2c289.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cccc598b-ae7a-4107-9d69-698267e2c289_thumb.jpg",
+   "text": "If the values printed in the Serial Monitor are not around 500's, take the mini flat screwdriver and turn the calibration screw anti-clockwise until the numbers reach 500, in silence condition. This might take up to 15 turns of the screw.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 12,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/07a7d236-8f86-4e99-8c42-be5a54c57ddd.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/07a7d236-8f86-4e99-8c42-be5a54c57ddd_thumb.jpg",
+   "text": "Close the serial monitor window and press the Serial Plotter button to see a visual representation of the data. Observe the nature of the data and how it changes with sound levels",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Adding a sesor to the board",
+   "stepGroupId": 1
+  },
+  {
+   "stepId": 13,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/04f40c39-b6f8-4088-ab1e-db8e6dc223ac.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/04f40c39-b6f8-4088-ab1e-db8e6dc223ac_thumb.jpg",
+   "text": "We start from a loop block again",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 14,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e6a5147c-75ef-427c-8ad0-620469895391.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e6a5147c-75ef-427c-8ad0-620469895391_thumb.jpg",
+   "text": "Add an if block in order to create a condition",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 15,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7371b385-67a9-4cad-81bf-9413bbc61035.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7371b385-67a9-4cad-81bf-9413bbc61035_thumb.jpg",
+   "text": "We want to read the sensor and determine what to do according to its readings, so we take the analog read block.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 16,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6558c8b5-f0f8-43cd-aa9e-0f671fe9f884.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6558c8b5-f0f8-43cd-aa9e-0f671fe9f884_thumb.jpg",
+   "text": "We want to detect when the sensor reading is beyond a certain value. Take the 'greater then' block from the condition drawer.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 17,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/16a1d128-bd79-4c72-8b41-7c340359eaad.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/16a1d128-bd79-4c72-8b41-7c340359eaad_thumb.jpg",
+   "text": "Attach the condition to the 'test' socket of the if block.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 18,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/52d205db-feef-4fdc-bff6-bc80a990804e.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/52d205db-feef-4fdc-bff6-bc80a990804e_thumb.jpg",
+   "text": "Attach the analog read block into the condition to detect when the sensors reading gets above a threshold value",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 19,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a95200f7-021f-4495-aced-59a6cfc9a018.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a95200f7-021f-4495-aced-59a6cfc9a018_thumb.jpg",
+   "text": "Add a speaker to digital pin 8 using 2 female-female dupont wires, as described in the diagram",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 20,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/eb6a1f5a-46e2-44ab-ab4d-40a7b52eca63.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/eb6a1f5a-46e2-44ab-ab4d-40a7b52eca63_thumb.jpg",
+   "text": "Add a Generate Timed Tone block to play a sound on the speaker, upon detection",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 21,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f8a5838b-b9c5-401c-98d4-a09f07cc4d28.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f8a5838b-b9c5-401c-98d4-a09f07cc4d28_thumb.jpg",
+   "text": "To make sure the sketch will stop reading the sensor while sound is played, add a one second  (1000 milliseconds) delay",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 22,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/27803351-32ba-4287-94a0-48273c59ef5e.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/27803351-32ba-4287-94a0-48273c59ef5e_thumb.jpg",
+   "text": "Clone one of the number blocks, for example from the \"delay millis\" command",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 23,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a6e65fee-0d27-4cd9-9ac5-2d72ddbd748d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a6e65fee-0d27-4cd9-9ac5-2d72ddbd748d_thumb.jpg",
+   "text": "Attach it to the right side of the 'Greater Than' condition",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 24,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d9b2c593-7379-4c0c-9ed5-69cfd0ba51a9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d9b2c593-7379-4c0c-9ed5-69cfd0ba51a9_thumb.jpg",
+   "text": "Set the threshold value to a number based on your previous acquaintance with the sensor values (700 in the above example). The closer the number is to baseline value (sensor reading during silence) -  the more sensitive detection you will get",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 25,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2e2f1f28-91b7-4ab1-985f-c53d5a564181.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2e2f1f28-91b7-4ab1-985f-c53d5a564181_thumb.jpg",
+   "text": "You can add a live reading to see what is happening behind the curtains. now upload and test your loud sound detection device",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Sensor Level Detection",
+   "stepGroupId": 2
+  },
+  {
+   "stepId": 26,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/de9f438c-1dd3-4532-8865-304f489996fb.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/de9f438c-1dd3-4532-8865-304f489996fb_thumb.jpg",
+   "text": "Disconnect the controller from USB",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Reflectance Sensor",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 27,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5f8c81b9-a79e-49f6-b3a8-b6122d63e3a6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5f8c81b9-a79e-49f6-b3a8-b6122d63e3a6_thumb.jpg",
+   "text": "Take the IR reflectance sensor and connect it instead of the microphone, as in the diagram. This sensor measures the Infrared light reflection of an object placed in front of it. The close or brighter the object - the higher the reflectance.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Reflectance Sensor",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 28,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2a3f3d9e-9be4-4036-89b0-461e3a74c53d.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2a3f3d9e-9be4-4036-89b0-461e3a74c53d_thumb.jpg",
+   "text": "Go back to the Sketch that prints out the values of a sensor connected to A0 and study the sensor readings. Try to place your hand in front of the sensor at different distances and watch the readings change",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Reflectance Sensor",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 29,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2b75eb1b-ce04-4447-ad27-58750ee720e3.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2b75eb1b-ce04-4447-ad27-58750ee720e3_thumb.jpg",
+   "text": "The previous code would probably not work here, due to the number 700 being too high or too low. \nIn theory, we could changed the threshold value every time we reposition the sensor, but that is just no fun! Instead, we will now code something called Dynamic Calibration, remembering the sensor reading at program start and comparing updated sensor readings to that initial value.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Reflectance Sensor",
+   "stepGroupId": 3
+  },
+  {
+   "stepId": 30,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/06d05785-ffd0-4aa0-a43b-673fd9dfc0f7.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/06d05785-ffd0-4aa0-a43b-673fd9dfc0f7_thumb.jpg",
+   "text": "First thing we need to do is replace he loop block with a program block that will allow us to code one-time initializations, placed inside the 'setup' socket",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 31,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/56e6208c-e8e0-45b4-a8c5-c6a5c2b789a5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/56e6208c-e8e0-45b4-a8c5-c6a5c2b789a5_thumb.jpg",
+   "text": "Next, get a 'set integer variable' block from the Variables drawer and place it in the setup socket. This block will allow us to save the initial sensor value in memory.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 32,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b2aa0b0c-74dc-4c0f-8982-f741d31ad69b.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b2aa0b0c-74dc-4c0f-8982-f741d31ad69b_thumb.jpg",
+   "text": "Let's change the name of the variable - i.e. the memory location, where the sensor's initial reading will be stored - to 'baseline'.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 33,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0d500ac9-6616-4665-9d79-98c342c9cd26.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0d500ac9-6616-4665-9d79-98c342c9cd26_thumb.jpg",
+   "text": "Now let's read the sensor value and place it inside our new variable, for comparing against it in the future.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 34,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/46159be2-01ae-46ac-a6f7-24a659f45ee2.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/46159be2-01ae-46ac-a6f7-24a659f45ee2_thumb.jpg",
+   "text": "Done with the setup, continuing to loop - the ever repeating  program logic section. Add an If statement, as before, for testing sensor readings",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 35,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7bed0467-1683-42ab-910e-c9ea9d868bd6.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7bed0467-1683-42ab-910e-c9ea9d868bd6_thumb.jpg",
+   "text": "The if statement will use the sensor value, as before, so get an analog read block ready",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 36,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/078e4cdb-a342-4421-be52-24c493f91fea.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/078e4cdb-a342-4421-be52-24c493f91fea_thumb.jpg",
+   "text": "This time, we want to compare the sensor reading against a relative threshold, so get a minus block from the Operators drawer",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 37,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/09a74dd3-7611-4472-b99c-5a0d5f75253a.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/09a74dd3-7611-4472-b99c-5a0d5f75253a_thumb.jpg",
+   "text": "...and substract the previously recorded baseline value from the current sensor reading. Do you understand what we just did? Instead of having a fixed threshold, our code now can adapt to different setup environments!",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 38,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dc251ffe-66d0-4114-b6df-c790b430acf0.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dc251ffe-66d0-4114-b6df-c790b430acf0_thumb.jpg",
+   "text": "And just to make things even more perfect, we will add an absolute value block that will allow us not to care what was the direction of the change in the sensor reading, i.e. whether it got smaller or bigger",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 39,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/20d2046c-ec9c-4ada-9aa7-b4f8729f4a13.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/20d2046c-ec9c-4ada-9aa7-b4f8729f4a13_thumb.jpg",
+   "text": "As before, we will use the greater-than block, but this time to compare the relative sensor reading to a threshold value",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 40,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1b2fb702-f597-41c8-be40-130956d682a5.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1b2fb702-f597-41c8-be40-130956d682a5_thumb.jpg",
+   "text": "place the relative reading calculation in the left side of the greater than comparison operator",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 41,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c7c0653c-72d6-43d8-8a9b-d05da1ebbae0.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c7c0653c-72d6-43d8-8a9b-d05da1ebbae0_thumb.jpg",
+   "text": "If no number block is available for cloning on the screen, get one from the Variables drawer",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 42,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b106f4dc-3a4d-4baf-9edd-79dcc738b6e4.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b106f4dc-3a4d-4baf-9edd-79dcc738b6e4_thumb.jpg",
+   "text": "change the threshold value to a reasonable one, based on your experience with the sensor",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 43,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/56c7ac76-8ff0-43c6-85d4-d20f0f81a862.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/56c7ac76-8ff0-43c6-85d4-d20f0f81a862_thumb.jpg",
+   "text": "finally, connect the comparison to the if statement. Pat yourself on the shoulder! you are nearly done.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 44,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e9a935f2-f390-4963-8584-00b69779c704.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e9a935f2-f390-4963-8584-00b69779c704_thumb.jpg",
+   "text": "Add detection sound, as before",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 45,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/3f607469-fed2-4061-bcb4-64136f7f5a56.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/3f607469-fed2-4061-bcb4-64136f7f5a56_thumb.jpg",
+   "text": "And a delay statement that will prevent the sound from replaying over and over again, before finished. Save this sketch using the Save button under the name 'dynamic calibration\".",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 46,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/baca9d7f-e2e0-4289-9feb-c1863e5d9615.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/baca9d7f-e2e0-4289-9feb-c1863e5d9615_thumb.jpg",
+   "text": "Upload your code and Test! get your hand close to the sensor and see if that triggers the sound. In case you need to recalibrate, just press the reset button on your microcontroller board",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Dynamic Calibration",
+   "stepGroupId": 4
+  },
+  {
+   "stepId": 47,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e34e94fd-7495-48de-b95a-5c7cdf3bd36e.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e34e94fd-7495-48de-b95a-5c7cdf3bd36e_thumb.jpg",
+   "text": "Using a female-female 3-wire cable, connect the light sensor to the microcontroller at analog input A0, as in the diagram. Reset the microcontroller and try changing the amount of light shed on the sensor. Does the sketch still work? If not, return to printing sensor values and try to debug.",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Remaining Analog Sensors",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 48,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a5651e91-9abc-4de4-a8b2-ace9dddf1714.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a5651e91-9abc-4de4-a8b2-ace9dddf1714_thumb.jpg",
+   "text": "Last, connect the Piezo disk to its module board using the mini flat screwdriver. The piezo is a very sensitive vibration sensor",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Remaining Analog Sensors",
+   "stepGroupId": 5
+  },
+  {
+   "stepId": 49,
+   "url": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6899f907-bc0d-4c94-876c-66288ac253b9.jpg",
+   "urlTablet": "",
+   "urlMobile": "",
+   "thumbUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6899f907-bc0d-4c94-876c-66288ac253b9_thumb.jpg",
+   "text": "Connect the piezo module to the microcontroller's pin A0, as in the diagram. Using some masking tape, gently mount the piezo disc onto a flat surface such as a table. Reset the microcontroller to force dynamic calibration and knock on the surface. Does your sketch still work?",
+   "title": "",
+   "addToBackground": false,
+   "muted": false,
+   "autoPlay": false,
+   "isGalleryStep": false,
+   "isDominantText": false,
+   "type": 1,
+   "tips": [],
+   "contentTips": [],
+   "extraData": {
+    "extraDataMaterials": null,
+    "extraDataQuestion": null,
+    "extraDataForm": null,
+    "extraDataTipForm": null
+   },
+   "stepGroup": "Experimenting with Remaining Analog Sensors",
+   "stepGroupId": 5
+  }
+ ],
+ "appStoreUrl": "https://itunes.apple.com/il/app/makeree-become-a-maker/id969066874",
+ "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.makeree.app",
+ "showGallery": false,
+ "galleryProjects": null,
+ "finalStep": 10,
+ "arSettings": null,
+ "contactChannelsConfiguration": {
+  "enabledInMenu": true,
+  "enabledInGuides": true,
+  "contactChannels": [
+   {
+    "type": 1,
+    "contactValue": "default",
+    "webUrl": "default",
+    "appUrl": "default"
+   }
+  ]
+ },
+ "shopUrl": null,
+ "isShopEnabled": true,
+ "isArEnabled": false,
+ "labels": null,
+ "qrCodeLink": null,
+ "isGuideToPrintEnabled": false,
+ "error": 0
+}

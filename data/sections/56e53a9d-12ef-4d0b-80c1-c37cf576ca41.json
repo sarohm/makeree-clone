@@ -1,0 +1,36 @@
+{
+ "sectionName": "Toy Hacking Mutant Lab - Target Oriented",
+ "sectionId": "56e53a9d-12ef-4d0b-80c1-c37cf576ca41",
+ "guides": [
+  {
+   "projectId": "e4708e43-6231-4180-87d9-31202b0b2cc5",
+   "projectName": "Hotwiring a toy",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/675c5db9-54fe-4e3f-a268-19d33ddde681.jpg",
+   "mapItemType": 0,
+   "time": "00:10:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "478587f5-d281-44de-a1c4-963586e9c822",
+   "projectName": "Wireless Toy Doorbell",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/178eddb4-329a-412f-a1a3-8fde9321247b.jpg",
+   "mapItemType": 0,
+   "time": "00:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "371ecba8-c412-42e2-9239-8410cd8af427",
+   "projectName": "Toy Alarm Clock",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9828bb33-100c-458d-899e-a6d2773e2471.jpg",
+   "mapItemType": 0,
+   "time": "00:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/af3ed927-737d-4332-b658-a07393fd6a9a.jpg",
+ "isMultipart": false,
+ "error": 0
+}

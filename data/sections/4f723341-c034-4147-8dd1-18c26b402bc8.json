@@ -1,0 +1,99 @@
+{
+ "sectionName": "כלי תעופה",
+ "sectionId": "4f723341-c034-4147-8dd1-18c26b402bc8",
+ "guides": [
+  {
+   "projectId": "d06df540-e94d-4c49-be4b-68ba8b33d605",
+   "projectName": "כוח המשיכה",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/55c7d44b-472a-4aa5-b487-8510bf50136f.jpg",
+   "mapItemType": 0,
+   "time": "00:05:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "e9174ba0-d863-4a6d-8da5-edf9c2cd3612",
+   "projectName": "התנגדות אויר - מצנח",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f2ff92e9-f274-422c-856a-8205e2bb37ad.jpg",
+   "mapItemType": 0,
+   "time": "00:10:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "e8a49084-94e3-410f-8746-e5f956cb3b10",
+   "projectName": "כוח העילוי",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/91a96038-9576-4a13-b6e5-bcab362e5d7b.jpg",
+   "mapItemType": 0,
+   "time": "00:20:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "b368cfce-f428-4104-afac-55f592fd7cc1",
+   "projectName": "כח דחף - טיל",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9f27ec35-3eb2-49c4-9b3d-9aae40f6d605.jpg",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "78bdb191-4029-4195-8cb5-555c55f1cb26",
+   "projectName": "כח דחף - מדחפים",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/a003fb73-2516-4837-91d3-15678a29fcea.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "779818df-bb0d-4d56-81a3-fb44f76699e8",
+   "projectName": "זוית תקיפה - כנף",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/04e59be5-f17a-4c53-9269-1ea2c112251d.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "70311c08-74ff-40ca-b2c5-4db812021488",
+   "projectName": "",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/95617b0e-0ef6-4b50-8e87-cd37e86bb699.jpg",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "35ad788c-8a8e-4ea6-9086-fc25deb0d6da",
+   "projectName": "יוצאים לשטח",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/409f7177-572f-4051-bf03-83ff92b282a2.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "1a022a7f-4216-42ac-b2c0-c2c88b6e7ff4",
+   "projectName": "New Guide",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7230f9fb-28b3-40bf-95b2-9bef1662e80d.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "dde20fa3-c188-485d-8e31-72f7c54bec40",
+   "projectName": "New Guide",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/834324a1-629b-4bb2-a80f-53da2c03487b.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6182655c-be9c-4095-b984-eb90d57968ad.jpg",
+ "isMultipart": false,
+ "error": 0
+}

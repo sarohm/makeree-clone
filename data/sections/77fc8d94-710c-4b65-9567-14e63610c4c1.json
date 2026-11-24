@@ -1,0 +1,63 @@
+{
+ "sectionName": "עץ - כלי שיט",
+ "sectionId": "77fc8d94-710c-4b65-9567-14e63610c4c1",
+ "guides": [
+  {
+   "projectId": "75766c6d-8425-41a3-aa9b-dc168acf347b",
+   "projectName": "",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/6ee2b09c-063d-463e-a634-73644ca493e5.jpg",
+   "mapItemType": 0,
+   "time": "00:20:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "b898e79c-3868-4a36-9b02-98c2975f35f3",
+   "projectName": "רפסודה",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f0dedf5f-211f-4071-9ce2-050706eb8494.jpg",
+   "mapItemType": 0,
+   "time": "00:10:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "c7e9c50d-50da-421b-b72c-9fd9d4b80b93",
+   "projectName": "מפרש לרפסודה",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5eb6acd7-a35c-4f4f-99ae-41eee1982c81.jpg",
+   "mapItemType": 0,
+   "time": "00:10:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "44c9f00c-4674-41ed-96cf-dcf0c23cb863",
+   "projectName": "מנוע לרפסודה",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/83d007db-f63c-4e2e-bb00-5d2a75afd41a.jpg",
+   "mapItemType": 0,
+   "time": "00:10:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "b3e02149-b537-47a4-8376-38efab547ee7",
+   "projectName": "סירה",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/4a555293-2f3b-46fd-9e71-756348d50ba8.jpg",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "d240f1b5-2060-40b9-8e93-d8e15db7d5a8",
+   "projectName": "יוצאים לשטח",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e4055f92-eb53-4212-9d86-ca7e5d89f8ee.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/28540be4-c091-4a3b-a5be-f485a212aef3.jpg",
+ "isMultipart": false,
+ "error": 0
+}

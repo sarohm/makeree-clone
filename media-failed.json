@@ -1,0 +1,142 @@
+[
+ [
+  "http://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8359.mp4?_=1",
+  "ERR Remote end closed connection without response"
+ ],
+ [
+  "https://d1xhvexl2i3ere.cloudfront.net/Resources/makeree/essentials/creative1/info2.jpg",
+  "ERR HTTP Error 403: Forbidden"
+ ],
+ [
+  "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/aa66cd26-7764-41d6-a26c-04f5ec7d9aae.jpg",
+  "ERR <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8359.mp4?_=1",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8464.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8486.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8620.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8662.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7813.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7834.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7842.mov",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7861.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7870.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7873.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7906.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_7946.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8060.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8080.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8094.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8108.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8111.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8115.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8164.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8231.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8242.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_8320.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9615.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9652.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9733.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9760.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9782.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9884.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/01/IMG_9902.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/02/2019-02-03-17_19_01.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ],
+ [
+  "https://learn.forrealteam.com/wp-content/uploads/2019/02/IMG_0037.mp4",
+  "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+ ]
+]

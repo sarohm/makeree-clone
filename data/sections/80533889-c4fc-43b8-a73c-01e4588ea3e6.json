@@ -1,0 +1,45 @@
+{
+ "sectionName": "DIY Triggers",
+ "sectionId": "80533889-c4fc-43b8-a73c-01e4588ea3e6",
+ "guides": [
+  {
+   "projectId": "53137160-d69e-4720-a7cc-0d8443da0d39",
+   "projectName": "Pull Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/01218735-eb1c-49f3-8ab1-99f7a4ae120c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "41031ffb-4ead-4d8e-8f50-619619d621c6",
+   "projectName": "Blow Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bd448f33-37a4-4b77-8946-31bedae2b147.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "59a6d6d7-e927-4752-a808-e01933397ce1",
+   "projectName": "Tilt Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2cd46c5a-60c5-4774-9f03-c8280b459229.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "782041f1-3f5a-4dec-b0c7-30f961144811",
+   "projectName": "Push trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b2b62d4a-867c-48ee-b14c-7e2c498f4cf3.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/dee4a3e8-0050-4235-a62b-cd21010ca548.jpg",
+ "isMultipart": false,
+ "error": 0
+}

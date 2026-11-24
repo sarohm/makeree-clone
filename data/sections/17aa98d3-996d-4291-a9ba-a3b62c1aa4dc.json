@@ -1,0 +1,45 @@
+{
+ "sectionName": "Toy Hacking Mutant Lab - Open Ended",
+ "sectionId": "17aa98d3-996d-4291-a9ba-a3b62c1aa4dc",
+ "guides": [
+  {
+   "projectId": "f9281d32-ccea-42e1-9850-ee352ab3e979",
+   "projectName": "Hotwiring a Toy",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5273e0fe-27b5-45a7-b035-9e202093f2b7.jpg",
+   "mapItemType": 0,
+   "time": "00:10:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "a9d24c96-eb70-4cdf-bd3c-8bf2235ff32f",
+   "projectName": "Electric Foot Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c9f5162b-015a-4712-a497-cc259071bb88.jpg",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "66d06c86-c067-4f43-a96d-fdc0828d8256",
+   "projectName": "Electric Salt Water Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7daa9730-9b05-4ae9-9e75-f856f80d037c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "f33ab05d-09a9-45fe-b21b-a63ff4457c95",
+   "projectName": "Analog Triggers",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ea5cedef-1473-476e-a32a-ad79e9539028.jpg",
+   "mapItemType": 0,
+   "time": "00:15:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d7fd5e6f-1ffb-41b5-b63a-8a50abb2fb23.jpg",
+ "isMultipart": false,
+ "error": 0
+}

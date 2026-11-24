@@ -1,0 +1,18 @@
+{
+ "sectionName": "Archive",
+ "sectionId": "6214b57f-1750-4863-95f0-caa12ee4fab4",
+ "guides": [
+  {
+   "projectId": "b538e425-353d-4397-9c31-ef35b03f35c7",
+   "projectName": "Sumobot Assembly - ESP8266 Board (1)",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bf10001e-e651-4c1c-91b4-53c192233f73.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "",
+ "isMultipart": false,
+ "error": 0
+}

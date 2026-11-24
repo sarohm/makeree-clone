@@ -1,0 +1,108 @@
+{
+ "sectionName": "Code & Movement Robotics Field Lab",
+ "sectionId": "d2535679-d95c-46ff-a293-78861934833c",
+ "guides": [
+  {
+   "projectId": "804a303d-0cf8-4716-8bdd-fdfd3ce8ba3d",
+   "projectName": "Sumobot Assembly - Arduino Board",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/d4769bee-f797-4310-be81-fe5f452e3c23.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "2861206e-0675-43a1-a1bd-7bb1d3ad61e0",
+   "projectName": "Sumobot Assembly - ESP8266 Board (M2)",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/58eef846-141e-4521-8146-e5ff0c0224b3.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "c6c786ba-3523-4266-b472-55287e6805f7",
+   "projectName": "Ardublock Initial Setup",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c1cb89ff-4618-4b50-a898-956a2d1192a7.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "50a6f224-0dab-4a64-8ace-8a6ceec5ba8d",
+   "projectName": "My First Ardublock Program - Arduino Board",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/090b0ab9-547a-4408-a0ef-e5c2466ea28c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "3e9a8400-ba6d-4ab6-a280-5657ddf31bcb",
+   "projectName": "My First Ardublock Program - ESP8266 Board",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/090b0ab9-547a-4408-a0ef-e5c2466ea28c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "58da7aed-c2e9-45bd-8179-d6d50b81f978",
+   "projectName": "Sumobot Programming - Arduino",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/834bfbd2-e6f4-4215-b97f-aaac9f1bc879.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "21fd43da-ee9b-4be1-9738-e88aa21c9542",
+   "projectName": "Sumobot All Systems Check - ESP8266 Board",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/7eb1f547-e61a-4dc7-9239-87e33ef01f0d.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "d4dfb8b0-ef72-4df4-a195-1614c54a3ac1",
+   "projectName": "Code As Choreography - ESP8266 Board",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/ec9eb54c-c863-47b8-aa06-6e56eafc7e81.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "07adf090-a232-4ea3-b973-33adc40640f5",
+   "projectName": "Wireless Code Upload (OTA)",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9504b48a-0af0-4588-8974-1a90a4812898.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "18b4295d-262e-4a3d-9a0a-70d16d21c1a7",
+   "projectName": "Working with Sound",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/f037ca91-740d-4b40-92ff-7711c0d7d7d8.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "427f107b-9e98-4eeb-9baf-e1581d2082b8",
+   "projectName": "Remote Control",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/cc609654-12c6-4a5f-9dd5-c604c77482dd.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/711c8e52-0d1f-477d-be0f-8b7af254800b.jpg",
+ "isMultipart": false,
+ "error": 0
+}

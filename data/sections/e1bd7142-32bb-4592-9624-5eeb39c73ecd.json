@@ -1,0 +1,18 @@
+{
+ "sectionName": "Arduino Contraptions Lab",
+ "sectionId": "e1bd7142-32bb-4592-9624-5eeb39c73ecd",
+ "guides": [
+  {
+   "projectId": "14a99032-ea65-43aa-9004-7b538958dbfb",
+   "projectName": "Desktop Basketball",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/8baaf920-e7ed-470a-aec6-6971b1ef4e02.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/8d73820d-23db-42ca-a234-e996dfb32eeb.jpg",
+ "isMultipart": false,
+ "error": 0
+}

@@ -1,0 +1,45 @@
+{
+ "sectionName": "DIY Triggers",
+ "sectionId": "52a7a7aa-0c1f-4ae2-8428-5664c53d3c68",
+ "guides": [
+  {
+   "projectId": "7ea9ffa4-5c73-48c7-95d2-fbea1f2cf3fd",
+   "projectName": "Pull Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/01218735-eb1c-49f3-8ab1-99f7a4ae120c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "a20a2e1b-1c08-45f2-8baa-397a509dd0ea",
+   "projectName": "Tilt Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/2cd46c5a-60c5-4774-9f03-c8280b459229.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "6e869f14-6db1-4a0e-8455-2f2b0d435008",
+   "projectName": "Blow Trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bd448f33-37a4-4b77-8946-31bedae2b147.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "8a15ac43-d83a-45e7-aa82-2b9f5f8e0f80",
+   "projectName": "Push trigger",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b2b62d4a-867c-48ee-b14c-7e2c498f4cf3.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e0b75860-9920-42e2-89f3-3ac6e425c826.jpg",
+ "isMultipart": false,
+ "error": 0
+}

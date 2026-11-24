@@ -1,0 +1,126 @@
+{
+ "sectionName": "Internet Of Things Scenario Lab",
+ "sectionId": "6c97cb18-f544-4c62-acf7-3613f623de9f",
+ "guides": [
+  {
+   "projectId": "4f1d7004-ce1f-4b6f-bbcf-b3208d141079",
+   "projectName": "Ardublock Initial Setup",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/c1cb89ff-4618-4b50-a898-956a2d1192a7.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "c6f7a77f-53e2-4452-b432-ad63502a749e",
+   "projectName": "My First Ardublock Program - ESP8266 Board",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/090b0ab9-547a-4408-a0ef-e5c2466ea28c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "653dd1d1-554d-4a89-b066-7c5724ca613e",
+   "projectName": "Working with Analog Sensors",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/91865805-977f-400f-a83a-0c3c83cebcc1.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "78c3c9f1-3446-4f48-8fe8-bea27d0acfb8",
+   "projectName": "Cloud Automation",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1aa7b14a-5a1f-4f45-b162-d8b70559bb99.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "28d09504-5a3f-4365-8465-13c88114742f",
+   "projectName": "Uploading Sensor Data to the Cloud",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/9dddee33-0322-4adb-8886-e739e833c6e3.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "6a4d19d7-e009-4588-90b4-7066b0d0abb8",
+   "projectName": "Working with Telegram",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/365eda34-ff42-44a3-a269-08c4fb8c5d82.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "53445b8a-813b-4146-a6a7-ef87558eeb8d",
+   "projectName": "Working with Buttons",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/051007a0-08fc-49b1-8338-507c3c3b0120.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "cd090c3b-1bd7-4830-9be9-e651c0a97189",
+   "projectName": "Working with Blynk IOT",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/5316a1ee-ae21-462e-a4ec-64f87f1f54f5.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "97ca48e9-98ac-423c-ab91-adb31a8b4620",
+   "projectName": "The Cloud Counter Project",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/38599c0e-f326-48e9-8d55-6141ae73ad94.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "7ccba98f-2036-4ef7-a085-02a0314105b7",
+   "projectName": "Creating a Cloud Survey",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/10675f42-7a61-4caf-b2ff-e34856b4db4c.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "2a4abea1-8af9-4553-83c5-add1654a4824",
+   "projectName": "Working with Light Displays",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/bca1e34f-d496-4d2b-8101-4fb4f03772a1.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "000ededc-ab90-47de-9061-c868a71fd55d",
+   "projectName": "From Data to Light",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/97298079-bf92-470e-bc88-8a6933a0d4fb.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "d347ab4b-1aa0-49c6-88f8-7f2342eb08be",
+   "projectName": "Working with MP3 Player",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e467fdbd-df5c-4b68-b918-c799f16d8925.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b4f09963-870c-4dd9-b9fe-e9d9040e4cec.jpg",
+ "isMultipart": false,
+ "error": 0
+}

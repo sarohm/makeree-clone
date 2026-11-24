@@ -1,0 +1,54 @@
+{
+ "sectionName": "Doodling Devices Lab",
+ "sectionId": "16a114e4-2f9f-4c3f-9717-36dce755a91f",
+ "guides": [
+  {
+   "projectId": "a3b19607-89e4-4b9b-bc97-1548a08d066b",
+   "projectName": "Dancing Doodler",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/19e09783-a4cc-47bf-8d43-e8f3477e392c.jpg",
+   "mapItemType": 0,
+   "time": "00:30:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "c52092c7-e46b-48b1-97df-d8717ffebfa1",
+   "projectName": "Musical Pencil",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/62e54135-a2af-4094-8fdf-659fa89eebca.jpg",
+   "mapItemType": 0,
+   "time": "00:45:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "695ff9a9-b26b-494f-8cb7-4c70fe268c9a",
+   "projectName": "Laser Spirograph",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/0036271b-6972-41d9-9556-eef78a16808b.jpg",
+   "mapItemType": 0,
+   "time": "03:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "529ae25c-244a-4cda-8e25-51d9edd03c4e",
+   "projectName": "Light Painting",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/b8a5d373-cee1-4255-9f52-7070011e52db.jpg",
+   "mapItemType": 0,
+   "time": "00:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  },
+  {
+   "projectId": "67880ba8-9468-41f9-a201-bb9fbdfe23dd",
+   "projectName": "POV Light Stick",
+   "imageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/e5fcc34a-bc28-4ebc-83d7-6a9526a00659.jpg",
+   "mapItemType": 0,
+   "time": "01:00:00",
+   "hideTotalStepsNr": false,
+   "hideStepTitles": false
+  }
+ ],
+ "sectionImageUrl": "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/1be43211-430a-4fd1-985a-edc42564192b.jpg",
+ "isMultipart": false,
+ "error": 0
+}
