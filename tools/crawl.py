@@ -80,6 +80,41 @@ with cf.ThreadPoolExecutor(8) as ex:
     for pid, langs in ex.map(fetch_project, project_ids):
         print("project", pid, project_ids[pid], langs)
 
+# shared-images gallery (photos people uploaded of their builds), paged
+# The app-wide list stops at 100, so also ask per lab and per guide, and merge.
+def gallery_pages(query):
+    out, start = [], 0
+    while True:
+        try:
+            g = json.loads(get(f"{API}web/GetProjectsGallery?clientId={APP}{query}&paramStart={start}&paramLength=100"))
+        except Exception:
+            break  # the API answers 400 "No more projects available" past the end
+        out += g.get("projects") or []
+        start += len(g.get("projects") or [])
+        if not g.get("canLoadMore") or not g.get("projects"):
+            break
+    return out
+
+
+items = {}
+def add(lst, section=None, lesson=None):
+    for it in lst:
+        e = items.setdefault(it["resourceId"], dict(it, sections=[], lessons=[]))
+        if section and section not in e["sections"]:
+            e["sections"].append(section)
+        if lesson and lesson not in e["lessons"]:
+            e["lessons"].append(lesson)
+
+add(gallery_pages(""))
+with cf.ThreadPoolExecutor(8) as ex:
+    for sid, lst in zip(sections, ex.map(lambda s: gallery_pages(f"&sectionId={s}"), sections)):
+        add(lst, section=sid)
+    for pid, lst in zip(project_ids, ex.map(lambda p: gallery_pages(f"&lessonDefinitionId={p}"), project_ids)):
+        add(lst, lesson=pid)
+gallery = list(items.values())
+save(os.path.join(DATA, "gallery.json"), gallery)
+print(len(gallery), "gallery items")
+
 # collect media urls from every json saved
 URL_RE = re.compile(r'https?://[^"\s\\]+?\.(?:jpe?g|png|gif|webp|svg|mp4|mov|webm|m4v|mp3|wav|pdf|glb|gltf|usdz|ino|zip|stl)(?:\?[^"\s\\]*)?', re.I)
 urls = set()

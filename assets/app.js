@@ -61,6 +61,7 @@
     const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
     if (parts[0] === "section") return renderSection(parts[1]);
     if (parts[0] === "folder") return renderFolder(parts[1]);
+    if (parts[0] === "gallery") return renderGallery(parts[1], parts[2]);
     if (parts[0] === "guide") return renderGuide(parts[1], parts[2]);
     renderHome();
   }
@@ -90,6 +91,7 @@
       hero(a.mainImage, a.mainTitle.replace(/\b\w/g, (c) => c.toUpperCase()), a.mainSubtitle) +
       `<div class="search"><input id="q" placeholder="${esc(a.placeholderSearch || "Search for product/guide")}"></div>` +
       `<div id="results"></div>` +
+      `<p class="gallery-link"><a class="btn secondary" href="#/gallery">${esc(state.theme.customGalleryTitle || "Gallery")}</a></p>` +
       `<div class="grid">${nav.mainMenu.menuItems.map(menuCard).join("")}</div>` +
       (extra.length ? `<h2 class="section-title">More</h2><div class="grid">${extra.map((n) => card(`#/section/${n.data}`, n.imageUrl, n.title, n.itemsNumber + " projects")).join("")}</div>` : "");
     document.getElementById("q").oninput = (e) => search(e.target.value);
@@ -127,9 +129,44 @@
     $app.innerHTML = '<div class="loading">Loading…</div>';
     const s = await section(id);
     if (!s) { $app.innerHTML = '<div class="empty">Section not found</div>'; return; }
+    const gcount = (await gallery()).filter((g) => g.sections.includes(id)).length;
     $app.innerHTML = hero(s.sectionImageUrl, s.sectionName) +
+      (gcount ? `<p class="gallery-link"><a class="btn secondary" href="#/gallery/section/${id}">${esc(state.theme.customGalleryTitle || "Gallery")} (${gcount})</a></p>` : "") +
       `<div class="grid">${s.guides.map((g, i) => card(`#/guide/${g.projectId}`, g.imageUrl, g.projectName, [s.isMultipart ? `Part ${i + 1}` : "", fmtTime(g.time)].filter(Boolean).join(" · "))).join("")}</div>`;
     state.lastSection = id;
+  }
+
+  /* ---------- shared images gallery ---------- */
+  let galleryData = null;
+  async function gallery() {
+    if (!galleryData) galleryData = (await j("data/gallery.json")) || [];
+    return galleryData;
+  }
+
+  async function renderGallery(kind, id) {
+    const title = state.theme.customGalleryTitle || "Gallery";
+    let items = await gallery(), sub = "";
+    if (kind === "section") {
+      items = items.filter((g) => g.sections.includes(id));
+      const s = await section(id); sub = s ? s.sectionName : "";
+      setBack(`#/section/${id}`, "Back");
+    } else if (kind === "guide") {
+      items = items.filter((g) => g.lessons.includes(id));
+      sub = items[0] ? items[0].projectName : "";
+      setBack(`#/guide/${id}`, "Back");
+    } else setBack("#/", "Home");
+    $app.innerHTML = hero(state.app.application.mainImage, title, sub || `${items.length} photos and videos shared by makers`) +
+      `<div class="gallery">${items.map((g, i) => `<button class="gitem" data-g="${i}">
+        <img loading="lazy" src="${esc(media(g.thumbUrl || g.url))}" alt="">${g.isVideo ? '<span class="play">&#9654;</span>' : ""}
+        <span class="cap">${esc(g.projectName)}</span></button>`).join("") || '<div class="empty">No shared images yet</div>'}</div>`;
+    $app.querySelectorAll("[data-g]").forEach((b) => (b.onclick = () => {
+      const g = items[+b.dataset.g];
+      $overlay.innerHTML = `<div class="box"><button class="close" aria-label="Close">&times;</button>
+        ${g.isVideo ? `<video src="${esc(media(g.url))}" controls autoplay playsinline></video>` : `<img src="${esc(media(g.url))}" alt="">`}
+        <p><a href="#/guide/${g.projectId}">${esc(g.projectName)}</a> · ♥ ${g.reaction1Count || 0} · ★ ${g.reaction2Count || 0}</p></div>`;
+      $overlay.hidden = false;
+      $overlay.onclick = (e) => { if (e.target === $overlay || e.target.classList.contains("close")) closeOverlay(); };
+    }));
   }
 
   /* ---------- guide player ---------- */
@@ -150,7 +187,8 @@
     const firstStep = screens.findIndex((x) => x.kind === "step");
     let idx = Math.max(0, Math.min(screens.length - 1, parseInt(stepArg || "0", 10) || 0));
 
-    const kicker = p.partNumber ? `Part ${p.partNumber}` : "";
+    const kicker = p.partNumber > 0 ? `Part ${p.partNumber}` : "";
+    const gcount = (await gallery()).filter((g) => g.lessons.includes(id)).length;
     $app.innerHTML = `<div class="guide">${hero(p.sectionImageUrl || p.infoImageUrl, p.name, "", kicker)}
       <div class="stage" id="stage"></div>
       <div class="progress"><div id="bar"></div></div>
@@ -208,7 +246,8 @@
         $s.innerHTML = `<div class="media">${mediaHtml(p.finishImageUrl || p.infoImageUrl)}</div>
           <div class="text"><h2>${esc(p.finishTitle || "Well done!")}</h2><p>${esc(p.finishText || "")}</p>
           ${p.nextProjectId ? `<p>Next:</p><a class="card" href="#/guide/${p.nextProjectId}"><div class="thumb" style="background-image:url('${esc(media(p.nextProjectImageUrl))}')"></div><div class="body"><h3>${esc(p.nextProjectName)}</h3></div></a>` : ""}
-          <p><button class="btn secondary" id="again">Start over</button></p></div>`;
+          <p><button class="btn secondary" id="again">Start over</button>
+          ${gcount ? ` <a class="btn secondary" href="#/gallery/guide/${id}">${esc(state.theme.customGalleryTitle || "Gallery")} (${gcount})</a>` : ""}</p></div>`;
         document.getElementById("again").onclick = () => go(0);
       } else {
         const s = sc.s, n = p.lessonSteps.indexOf(s) + 1;

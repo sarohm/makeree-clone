@@ -8,10 +8,6 @@
   "ERR HTTP Error 403: Forbidden"
  ],
  [
-  "https://d1xhvexl2i3ere.cloudfront.net/makeree/res/aa66cd26-7764-41d6-a26c-04f5ec7d9aae.jpg",
-  "ERR <urlopen error [Errno 8] nodename nor servname provided, or not known>"
- ],
- [
   "https://learn.forrealteam.com/wp-content/uploads/2018/12/IMG_8359.mp4?_=1",
   "ERR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
  ],
