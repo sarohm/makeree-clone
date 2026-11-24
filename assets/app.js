@@ -66,7 +66,7 @@
     renderHome();
   }
 
-  function setBack(href, label) { $back.href = href; $back.querySelector("span").textContent = label; }
+  function setBack(href, label) { $back.hidden = !href; if (href) { $back.href = href; $back.querySelector("span").textContent = label; } }
 
   const card = (href, img, title, meta) =>
     `<a class="card" href="${href}"><div class="thumb" style="background-image:url('${esc(media(img))}')"></div><div class="body"><h3>${esc(title)}</h3>${meta ? `<div class="meta">${esc(meta)}</div>` : ""}</div></a>`;
@@ -82,7 +82,7 @@
   }
 
   function renderHome() {
-    setBack(state.theme.mainCustomBackUrl || "#/", state.theme.mainCustomBackTitle || "Home");
+    setBack(null); // home has no back link (the original pointed to makeree.com)
     const a = state.app.application, nav = state.app.navigation;
     const shown = new Set(nav.mainMenu.menuItems.map((m) => m.data));
     nav.navItems.filter((n) => !n.parent).forEach((n) => { if (shown.has(n.id)) shown.add(n.data); });
