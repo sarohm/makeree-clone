@@ -35,7 +35,7 @@
     state.app = app;
     state.manifest = manifest || {};
     state.theme = theme(app.application.themeSettings);
-    document.getElementById("logo").src = media(state.theme.logo);
+    document.getElementById("logo").src = "assets/forreal-logo.svg";
     app.application.languages.forEach((l) => $lang.insertAdjacentHTML("beforeend", `<option value="${l.languageCode}">${esc(l.languageName)}</option>`));
     $lang.value = state.lang;
     $lang.onchange = () => { state.lang = $lang.value; localStorage.setItem("lang", state.lang); route(); };

@@ -25,7 +25,7 @@ img, video { display: block; max-width: 100%; }
 }
 .topbar .back[hidden] { visibility: hidden; display: inline; }
 .topbar .back { text-decoration: none; font-weight: 700; font-size: 14px; }
-.topbar .logo img { height: 28px; }
+.topbar .logo img { height: 40px; }
 .topbar select { justify-self: end; border: 1px solid #ddd; border-radius: var(--radius); padding: 4px 8px; font: inherit; font-size: 13px; background: #fff; }
 
 .hero {
