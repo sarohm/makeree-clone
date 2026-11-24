@@ -148,6 +148,10 @@ with cf.ThreadPoolExecutor(16) as ex:
         if isinstance(r, str) and r.startswith("ERR"):
             failed.append((u, r))
 manifest = {u: os.path.relpath(local_path(u), OUT) for u in urls}
+# the site uses the ForReal logo in place of the Makeree logo
+for u in manifest:
+    if u.endswith("/makeree/web/makeree-logo.png"):
+        manifest[u] = "assets/forreal-logo.svg"
 save(os.path.join(OUT, "media-manifest.json"), manifest)
 save(os.path.join(OUT, "media-failed.json"), failed)
 print("failed", len(failed))
